@@ -1,6 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=AF2B&icon=3&color=1)](https://visitcount.itsvg.in)
+
+# 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AF2B&theme=github&no-frame=false&no-bg=false&margin-w=4)
+
+# 📊GitHub Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=af2b&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=af2b&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=af2b&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=af2b&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=af2b&theme=github&utcOffset=8)
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dev_andre.filipe) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://pt.stackoverflow.com/users/242719/andr%c3%a9-filipe) 
@@ -22,27 +33,8 @@
 ## 💻Extras
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>      </p>
 
-# 📊GitHub Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AF2B&theme=nord_dark)<br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AF2B&hide=Html&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AF2B&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AF2B&theme=nord_dark)
-
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AF2B&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AF2B&icon=3&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Devandrefilipe?new=1) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
