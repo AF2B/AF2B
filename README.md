@@ -31,6 +31,8 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42"/> 
 </a>
+<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
+</a>
   
 ## 💻Frameworks
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
