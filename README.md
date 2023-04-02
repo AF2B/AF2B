@@ -27,27 +27,22 @@
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir"            width="40" height="40"/> 
 </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-</a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42"/> 
 </a>
   
 ## 💻Frameworks
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
 </a>
-<a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Phoenix Framework" width="40" height="40"></a>
  <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" width="40" height="40"></a>
 
 <a href="https://svelte.dev" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
 </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
 </a>
 
   
