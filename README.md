@@ -20,6 +20,26 @@
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
        alt="docker" width="40" height="40"/> </a>
+  
+## Focusing
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+</a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+</a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>
 
 ## Hard Stack  
  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
@@ -31,24 +51,15 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));"/>
 </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a>
   
 ## Frontend
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a>
   
 ## Backend
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -80,6 +91,9 @@
 </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+</a>
+<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
 </a>
 </p>
 
