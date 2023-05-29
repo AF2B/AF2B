@@ -37,8 +37,8 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));"/>
 </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 </a>
 
 ## Hard Stack  
@@ -91,9 +91,6 @@
 </a>
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
-</a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 </a>
 </p>
 
