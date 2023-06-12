@@ -14,7 +14,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=af2b&theme=github&utcOffset=8)
 
 ## 🌐Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dev_andre.filipe) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://pt.stackoverflow.com/users/242719/andr%c3%a9-filipe) 
+<a href="https://instagram.com/andre.borba_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre.borba_" height="30" width="40" />
+</a>
 
 ## DevOps Stack
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -27,6 +29,9 @@
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
