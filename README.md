@@ -61,6 +61,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
+<a href="https://ziglang.org/">
+  <img src="https://ziglang.org/zig-logo.svg" alt="Logo da linguagem de programação ZIG" width="45" height="45">
+</a>
+
   
 ## Frontend
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
