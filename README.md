@@ -64,8 +64,8 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a>
-<a href="https://ziglang.org/">
-  <img src="https://ziglang.org/zig-logo.svg" alt="Logo da linguagem de programação ZIG" width="45" height="40">
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));"/>
 </a>
 
   
@@ -91,9 +91,6 @@
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" style="filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));"/>
 </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
