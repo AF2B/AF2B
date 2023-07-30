@@ -22,7 +22,6 @@
 <div style="display: flex; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-  <img src="https://lit.dev/images/logo.svg" alt="Litjs" width="40" height="40" />
 </div>
 
 ## Back-end
