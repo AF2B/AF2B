@@ -18,6 +18,22 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andre.borba_" height="30" width="40" />
 </a>
 
+## Hard
+<div style="display: flex; gap: 20px;">
+  <a href="https://ziglang.org/">
+    <img src="https://avatars.githubusercontent.com/u/27973237?s=48&v=4" alt="Zig" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="40"       height="40" />
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+</div>
+
 ## Front-end
 <div style="display: flex; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40" />
@@ -28,7 +44,6 @@
 <div style="display: flex; gap: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
 </div>
 
 ## Mobile
