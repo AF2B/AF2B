@@ -36,6 +36,7 @@
 
 ## Front-end
 <div style="display: flex; gap: 20px;">
+  <img src="https://d4.alternativeto.net/j2Qe4O0p2F7OmLkdOlu6o3xcNg1_OGI3lOYJ6CXXzFs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9hc3Ryby13ZWItZnJhbWV3b3JrXzIwOTAyOC5wbmc.png" alt="astro" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </div>
