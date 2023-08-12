@@ -56,8 +56,9 @@
 
 ## Testing
 <div style="display: flex; gap: 20px;">
-  <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40" />
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40" />
+  <a src="https://vitest.dev/">
+    <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40" />  
+  </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
   </a>
