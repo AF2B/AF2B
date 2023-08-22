@@ -23,6 +23,12 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
+  </a>
 </div>
 
 ## Hard Languages
@@ -30,18 +36,18 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" />
   </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
-  </a>
-  <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
   </a>
 </div>
 
 ## Back-end
 <div style="display: flex; gap: 20px;">
-  <a href="https://www.phoenixframework.org" target="_blank" rel="noreferrer"> 
-    <img src="https://th.bing.com/th/id/OIP.ud5oZi6ngtQf0bNzPEVvUwAAAA?pid=ImgDet&rs=1" alt="laravel" width="40" height="40"/> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
