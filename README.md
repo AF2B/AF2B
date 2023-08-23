@@ -39,8 +39,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
+  <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> 
   </a>
 </div>
 
@@ -51,6 +51,9 @@
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.ud5oZi6ngtQf0bNzPEVvUwAAAA?w=156&h=180&c=7&r=0&o=5&pid=1.7" alt="phoenix" width="45" height="45"/>
   </a>
 </div>
 
