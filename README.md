@@ -39,8 +39,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+  <a href="https://clojure.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> 
   </a>
 </div>
 
@@ -52,9 +52,7 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
   </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
-  </a>
+  
 </div>
 
 ## Front-end
@@ -93,6 +91,9 @@
 </div>
 
 ## Just for love =)
-<a href="https://clojure.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> 
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
+</a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
 </a>
