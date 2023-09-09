@@ -1,10 +1,8 @@
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-andre.borba_-purple?style=for-the-badge&logo=instagram)](https://instagram.com/andre.borba_)
 
-### Frontend
+### Work with
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-### Backend
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
 
