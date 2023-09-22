@@ -4,7 +4,7 @@
 ### Work with
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
-[![Erlang](https://img.shields.io/badge/Erlang-%23A90533?style=for-the-badge&logo=erlang)](https://www.erlang.org)
+[![Crystal](https://img.shields.io/badge/Crystal-black?style=for-the-badge&logo=crystal)](https://crystal-lang.org)
 
 ### I've used these languages.
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
