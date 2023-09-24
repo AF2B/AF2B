@@ -4,11 +4,11 @@
 ### Work with
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
-[![Crystal](https://img.shields.io/badge/Crystal-black?style=for-the-badge&logo=crystal)](https://crystal-lang.org)
+[![Rust](https://img.shields.io/badge/Rust-DE6D36?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ### I've used these languages.
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)
+[![Crystal](https://img.shields.io/badge/Crystal-black?style=for-the-badge&logo=crystal)](https://crystal-lang.org)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <br>
