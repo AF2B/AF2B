@@ -3,17 +3,17 @@
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-andre.borba_-purple?style=for-the-badge&logo=instagram)](https://instagram.com/andre.borba_)
 
-### Work with
+### Work with and focused
 [![Swift](https://img.shields.io/badge/Swift-%23f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-%230082DA?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![iOS](https://img.shields.io/badge/iOS-%23888888?style=for-the-badge&logo=apple&logoColor=black)](https://developer.apple.com/ios/) <br>
+[![Kotlin](https://img.shields.io/badge/Kotlin-%238A63D2?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) <br>
 
 ### I've work with
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) <br>
 [![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot/) <br>
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Native](https://img.shields.io/badge/React%20Native-%230082DA?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot/)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <br>
