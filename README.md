@@ -1,4 +1,4 @@
-## I'm a Mobile Software Engineer.
+## I'm a Software Engineer.
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-andre.borba_-purple?style=for-the-badge&logo=instagram)](https://instagram.com/andre.borba_)
