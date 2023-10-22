@@ -5,9 +5,8 @@
 
 ### Work with and focused
 [![Swift](https://img.shields.io/badge/Swift-%23f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Objective-C](https://img.shields.io/badge/Objective--C-%23C9985B?style=for-the-badge&logo=apple)](https://developer.apple.com/objective-c/)
 [![iOS](https://img.shields.io/badge/iOS-%23888888?style=for-the-badge&logo=apple&logoColor=black)](https://developer.apple.com/ios/) <br>
-[![Kotlin](https://img.shields.io/badge/Kotlin-%238A63D2?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/) <br>
 
 ### I've work with
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
