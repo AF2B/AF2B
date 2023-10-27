@@ -6,7 +6,6 @@
 ### Work with and focused
 [![Swift](https://img.shields.io/badge/Swift-%23f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%236F42C1?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### I've work with
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
