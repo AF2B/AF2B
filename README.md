@@ -3,19 +3,16 @@
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-andre.borba_-purple?style=for-the-badge&logo=instagram)](https://instagram.com/andre.borba_)
 
-### Work with and focused
+### Language Stack
 [![Swift](https://img.shields.io/badge/Swift-%23f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![Apple](https://img.shields.io/badge/Apple-%23000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/)
-<br>
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F39B1?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-
-
-### I've work with
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) <br>
-[![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot/)
+[![Elixir](https://img.shields.io/badge/Elixir-%234B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+### Framework Stack
+[![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-%2300ADD8?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) 
+[![Phoenix Framework](https://img.shields.io/badge/Phoenix-%238D6FBB?style=for-the-badge&logo=phoenix-framework&logoColor=white)](https://www.phoenixframework.org/)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <br>
