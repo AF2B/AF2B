@@ -5,16 +5,8 @@
 
 ### Language Stack
 [![Clojure](https://img.shields.io/badge/Clojure-%23a52a2a?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-### Web Stack
-[![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-
-### Mobile Stack
 [![Swift](https://img.shields.io/badge/Swift-%23f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-%2300ADD8?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+
 
 ### I've worked with
 [![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
