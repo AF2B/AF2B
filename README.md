@@ -3,10 +3,8 @@
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-andre.borba_-purple?style=for-the-badge&logo=instagram)](https://instagram.com/andre.borba_)
 
-### Language Stack
-[![Clojure](https://img.shields.io/badge/Clojure-%23a52a2a?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)
+### Focused
 [![Swift](https://img.shields.io/badge/Swift-%23f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-
 
 ### I've worked with
 [![Java](https://img.shields.io/badge/Java-%23FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
