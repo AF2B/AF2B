@@ -5,11 +5,7 @@
 <br>
 [![](https://visitcount.itsvg.in/api?id=AF2B&icon=3&color=1)](https://visitcount.itsvg.in)
 
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&labelColor=black&logo=ruby-on-rails&logoColor=CC0000)](#)
-[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#)
+[![GoLang Badge](https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#)
 
 # 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AF2B&theme=github&no-frame=false&no-bg=false&margin-w=4)
