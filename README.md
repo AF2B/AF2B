@@ -6,6 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=AF2B&icon=3&color=1)](https://visitcount.itsvg.in)
 
 [![GoLang Badge](https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#)
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)
 
 # 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AF2B&theme=github&no-frame=false&no-bg=false&margin-w=4)
