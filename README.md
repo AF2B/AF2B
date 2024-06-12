@@ -1,6 +1,6 @@
 ## I'm a Software Engineer.
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-andre.borba_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andre.borba_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-redirect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrefilipefonsecaborba/)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <br>
 [![](https://visitcount.itsvg.in/api?id=AF2B&icon=3&color=1)](https://visitcount.itsvg.in)
