@@ -39,6 +39,7 @@
 ## Contacts
 👋 LinkedIn: [https://www.linkedin.com/in/andrefilipefonsecaborba/](https://www.linkedin.com/in/andrefilipefonsecaborba/) </br>
 👋 Github: [https://github.com/AF2B](https://github.com/AF2B) </br>
+👋 LeetCode: [https://leetcode.com/u/andreborba/](https://leetcode.com/u/andreborba/) </br>
 🌎 Website: [Progress]() </br>
 🖨️ PDF: [Progress]() </br>
 
