@@ -6,7 +6,7 @@
 ## 🏆 Awards
 ### Ranking #Dev: [Progress]
 
-**Languages**: Swift, TypeScript, Kotlin, Database (PL/pgSQL, PL/SQL, BigQuery SQL).
+**Languages**: Swift, Java, Database (PL/pgSQL, PL/SQL, BigQuery SQL).
 **Algorithms**: [Progress]
 
 </br>
