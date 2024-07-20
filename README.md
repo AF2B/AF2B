@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Swift](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [Kotlin](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html) | [TypeScript](https://sergeyleschev.github.io/sergeyleschev-ios-roadmap.html)
+[Swift](https://roadmap.sh/ios) | [Java](https://roadmap.sh/java)
 </br>
 
 
