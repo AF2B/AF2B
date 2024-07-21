@@ -54,13 +54,30 @@
 
 </br>
 
+## Project Guidelines
+A set of best practices in my projects.
+- [ ] [Git](#)
+- [ ] [Documentation](#)
+- [ ] [Environments](#)
+- [ ] [Dependencies](#)
+- [ ] [Testing](#)
+- [ ] [Structure and Naming](#)
+- [ ] [Code Style](#)
+- [ ] [Logging](#)
+- [ ] [API](#)
+
+<br />
+
+
+<br />
+
+
 ## 🏫 Education
 ### UNIBRA - Centro Universitário Brasileiro
 2021 - 2024
-### Análise e Desenvolvimento de Sistemas.
+### Systems Analysis and Development.
 
 </br>
-
 
 ## 🎓 Postgraduate
 ### [Planned]
