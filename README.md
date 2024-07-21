@@ -25,7 +25,6 @@
 </br>
 
 ## [Design Patterns]()
-### [Progress]
 | Behavioral                              | Creational                | Structural                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | 🐝 Chain Of Responsibility (Progress...) | 🌰 Abstract Factory (Progress...) | 🔌 Adapter (Progress...) |
@@ -45,18 +44,18 @@
 ### [Progress]
 | [Linear](#)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical)                | [Graph-Based](#)                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| [📄 Array](#)                             | [🌲 Tree](#)                               | [🔗 Graph](#)                             |
-| [📑 Linked List](#)                       | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/BinaryTree.swift)                        | [🔀 Directed Graph](#)                    |
-| [📋 Stack](#)                             | [🌲 AVL Tree](#)                           | [🌐 Undirected Graph](#)                  |
-| [📜 Queue](#)                             | [🌴 Red-Black Tree](#)                     | [📉 Weighted Graph](#)                    |
-| [📄 Deque](#)                             | [🌿 B-Tree](#)                             | [🔄 Cyclic Graph](#)                      |
-| [📑 Circular Buffer](#)                   | [🌲 Trie](#)                               | [🚦 Acyclic Graph](#)                     |
-| [📋 Priority Queue](#)                    | [🌳 Heap](#)                               |                                          |
-| [📜 Sparse Matrix](#)                     |                                          |                                          |
+| [📄 Array (Progress...)](#)                             | [🌲 Tree (Progress...)](#)                               | [🔗 Graph (Progress...)](#)                             |
+| [📑 Linked List (Progress...)](#)                       | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/BinaryTree.swift)                        | [🔀 Directed Graph (Progress...)](#)                    |
+| [📋 Stack (Progress...)](#)                             | [🌲 AVL Tree (Progress...)](#)                           | [🌐 Undirected Graph (Progress...)](#)                  |
+| [📜 Queue (Progress...)](#)                             | [🌴 Red-Black Tree (Progress...)](#)                     | [📉 Weighted Graph (Progress...)](#)                    |
+| [📄 Deque (Progress...)](#)                             | [🌿 B-Tree (Progress...)](#)                             | [🔄 Cyclic Graph (Progress...)](#)                      |
+| [📑 Circular Buffer (Progress...)](#)                   | [🌲 Trie (Progress...)](#)                               | [🚦 Acyclic Graph (Progress...)](#)                     |
+| [📋 Priority Queue (Progress...)](#)                    | [🌳 Heap (Progress...)](#)                               |                                          |
+| [📜 Sparse Matrix (Progress...)](#)                     |                                          |                                          |
 |                                          |                                          |                                          |
 |                                          |                                          |                                          |
 |                                          |                                          |                                          |
-|                                          |                                          |                                          |
+                                         |                                          |                                          |
 
 
 </br>
