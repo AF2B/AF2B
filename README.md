@@ -44,7 +44,7 @@
 | [Linear](#)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical)                | [Graph-Based](#)                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | [📄 Array (Progress...)](#)                             | [🌲 Tree (Progress...)](#)                               | [🔗 Graph (Progress...)](#)                             |
-| [📑 Linked List (Progress...)](#)                       | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/BinaryTree.swift)                        | [🔀 Directed Graph (Progress...)](#)                    |
+| [📑 Linked List (Progress...)](#)                       | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/Hierarchical/BinaryTree.swift)                        | [🔀 Directed Graph (Progress...)](#)                    |
 | [📋 Stack (Progress...)](#)                             | [🌲 AVL Tree (Progress...)](#)                           | [🌐 Undirected Graph (Progress...)](#)                  |
 | [📜 Queue (Progress...)](#)                             | [🌴 Red-Black Tree (Progress...)](#)                     | [📉 Weighted Graph (Progress...)](#)                    |
 | [📄 Deque (Progress...)](#)                             | [🌿 B-Tree (Progress...)](#)                             | [🔄 Cyclic Graph (Progress...)](#)                      |
