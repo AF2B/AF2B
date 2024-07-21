@@ -52,11 +52,6 @@
 | [📑 Circular Buffer (Progress...)](#)                   | [🌲 Trie (Progress...)](#)                               | [🚦 Acyclic Graph (Progress...)](#)                     |
 | [📋 Priority Queue (Progress...)](#)                    | [🌳 Heap (Progress...)](#)                               |                                          |
 | [📜 Sparse Matrix (Progress...)](#)                     |                                          |                                          |
-|                                          |                                          |                                          |
-|                                          |                                          |                                          |
-|                                          |                                          |                                          |
-                                         |                                          |                                          |
-
 
 </br>
 
