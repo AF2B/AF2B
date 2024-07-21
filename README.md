@@ -41,7 +41,6 @@
 
 
 ## [Data Structure](https://github.com/AF2B/DataStructure)
-### [Progress]
 | [Linear](#)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical)                | [Graph-Based](#)                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | [📄 Array (Progress...)](#)                             | [🌲 Tree (Progress...)](#)                               | [🔗 Graph (Progress...)](#)                             |
