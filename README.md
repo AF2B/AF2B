@@ -6,7 +6,7 @@
 ## 🏆 Awards
 ### Ranking #Dev: [Progress]
 
-**Languages**: Swift, Java, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL).
+**Languages**: Swift, Java, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
 **Algorithms**: [Progress]
 
 </br>
