@@ -56,7 +56,7 @@
 
 ## Project Guidelines
 A set of best practices in my projects.
-- [ ] [Git](#)
+- [X] [Git](https://medium.com/@andre.borbaaf2b/melhores-práticas-para-usar-git-no-desenvolvimento-de-software-70f752fc7f5f)
 - [ ] [Documentation](#)
 - [ ] [Environments](#)
 - [ ] [Dependencies](#)
