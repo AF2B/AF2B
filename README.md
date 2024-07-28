@@ -24,7 +24,7 @@
 
 </br>
 
-## [Design Patterns]()
+## [Design Patterns](https://github.com/AF2B/DesignPattern)
 | Behavioral                              | Creational                | Structural                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | 🐝 Chain Of Responsibility (Progress...) | 🌰 Abstract Factory (Progress...) | 🔌 Adapter (Progress...) |
@@ -33,7 +33,7 @@
 | 🍫 Iterator (Progress...)                               | 🔂 Monostate (Progress...)               | 🍧 Decorator (Progress...)               |
 | 💐 Mediator (Progress...)                               | 🃏 Prototype (Progress...)               | 🎁 Facade (Progress...)                     |
 | 💾 Memento (Progress...)                                 | 💍 Singleton (Progress...)               | 🍃 Flyweight (Progress...)               |
-| 👓 Observer (Progress...)                               |                                          | ☔ Protection Proxy (Progress...) |
+| 👓 Observer                               |                                          | ☔ Protection Proxy (Progress...) |
 | 🐉 State (Progress...)                                     |                                          | 🍬 Virtual Proxy (Progress...)       |
 | 💡 Strategy (Progress...)                               |                                          |                                          |
 | 🏃 Visitor (Progress...)                                 |                                          |                                          |
