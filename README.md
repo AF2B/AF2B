@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Swift](https://roadmap.sh/ios) | [Java](https://roadmap.sh/java)
+[Swift](https://roadmap.sh/ios) | [Kotlin](https://roadmap.sh/android)
 </br>
 
 
