@@ -1,12 +1,12 @@
 # Andre Borba | Software Engineer
-[Swift](https://roadmap.sh/ios) | [Kotlin](https://roadmap.sh/android)
+[Swift](https://roadmap.sh/ios)
 </br>
 
 
 ## 🏆 Awards
 ### Ranking #Dev: [Progress]
 
-**Languages**: Swift, Java, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
+**Languages**: Swift, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
 **Algorithms**: [Progress]
 
 </br>
