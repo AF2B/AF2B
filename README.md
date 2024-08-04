@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Swift](https://roadmap.sh/ios) | [Java](https://roadmap.sh/java) | [TypeScript](https://roadmap.sh/typescript)
+[Swift](https://roadmap.sh/ios) | [GO](https://roadmap.sh/golang) | [TypeScript](https://roadmap.sh/typescript)
 </br>
 
 
