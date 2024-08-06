@@ -86,10 +86,18 @@ A set of best practices in my projects.
 
 ## Contacts
 👋 LinkedIn: [https://www.linkedin.com/in/andrefilipefonsecaborba/](https://www.linkedin.com/in/andrefilipefonsecaborba/) </br>
+
+
 👋 Github: [https://github.com/AF2B](https://github.com/AF2B) </br>
+
 👋 LeetCode: [https://leetcode.com/u/andreborba/](https://leetcode.com/u/andreborba/) </br>
+
 🌎 Website: [Progress]() </br>
+
 🌎 Medium [https://medium.com/@andre.borbaaf2b](https://medium.com/@andre.borbaaf2b) </br>
+
+🌎 DEV Community [https://dev.to/borba](https://dev.to/borba) </br>
+
 🖨️ PDF: [Progress]() </br>
 
 ALT: АНДРЕ БОРБА
