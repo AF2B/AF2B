@@ -1,12 +1,12 @@
 # Andre Borba | Software Engineer
-[Swift](https://roadmap.sh/ios) | [Java](https://roadmap.sh/java) | [TypeScript](https://roadmap.sh/typescript)
+[Clojure](https://clojure.org) | [Java](https://roadmap.sh/java) | [Haskell](https://www.haskell.org)
 </br>
 
 
 ## 🏆 Awards
 ### Ranking #Dev: [Progress]
 
-**Languages**: Swift, Java, TypeScript, Clojure, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
+**Languages**: Swift, Java, TypeScript, Clojure, Haskell, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
 **Algorithms**: [Progress]
 
 </br>
