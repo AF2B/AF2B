@@ -6,7 +6,7 @@
 ## 🏆 Awards
 ### Ranking #Dev: [Progress]
 
-**Languages**: Swift, Java, TypeScript, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
+**Languages**: Swift, Java, TypeScript, Clojure, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
 **Algorithms**: [Progress]
 
 </br>
