@@ -1,12 +1,12 @@
 # Andre Borba | Software Engineer
-[Clojure](https://clojure.org) | [Java](https://roadmap.sh/java) | [Ruby](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
+[Clojure](https://clojure.org) | [Java](https://roadmap.sh/java) | [Haskell](https://www.haskell.org) | [Swift](https://www.swift.org)
 </br>
 
 
 ## 🏆 Awards
 ### Ranking #Dev: [Progress]
 
-**Languages**: Swift, Java, TypeScript, Clojure, Ruby, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
+**Languages**: Swift, Java, Haskell, TypeScript, Clojure, Ruby, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
 **Algorithms**: [Progress]
 
 </br>
