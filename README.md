@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Clojure](https://clojure.org) | [Java](https://roadmap.sh/java) | [Haskell](https://www.haskell.org) | [Swift](https://www.swift.org)
+[Clojure](https://clojure.org) | [Java](https://roadmap.sh/java) | [Swift](https://www.swift.org)
 </br>
 
 
