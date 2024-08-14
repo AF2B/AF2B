@@ -1,66 +1,69 @@
 # Andre Borba | Software Engineer
-[Clojure](https://clojure.org) | [Swift](https://www.swift.org)
-</br>
+[Clojure](https://clojure.org) | [Swift](https://www.swift.org) | [Ruby](https://www.ruby-lang.org)
 
+---
 
-## 🏆 Awards
-### Ranking #Dev: [Progress]
-
-**Languages**: Swift, Java, Haskell, TypeScript, Clojure, Ruby, Database (PL/pgSQL, PL/SQL, BigQuery SQL, MongoDB/NoSQL). </br>
-**Algorithms**: [Progress]
-
-</br>
+## 🎖️ Achievements
+### 🚀 Developer Rankings: [In Progress...]
 
 <div style="page-break-after: always;"></div>
+
+---
 
 ## 💻 Technologies
 ### Tech Stack
 - **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google)
 - **Preferred:** Swift, Clojure
 - **Exploring:** Python
+
 ### Infra/DevOps
-- **Tools & Services:** Bamboo, Azure DevOps, Jenkins, Docker
+- **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps
+
 ### Auth Providers
 - **Services:** JWT (JSON Web Token), OAuth
+
 ### PM Stack
 - **Tools & Methodologies:** Jira, Scrum, Agile, Kanban
 
 <div style="page-break-after: always;"></div>
 
-</br>
+---
 
-## [Design Patterns](https://github.com/AF2B/DesignPattern)
+## 🧩 Design Patterns
+### [Explore More](https://github.com/AF2B/DesignPattern)
 | Behavioral                              | Creational                | Structural                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| 🐝 Chain Of Responsibility (Progress...) | 🌰 Abstract Factory (Progress...) | 🔌 Adapter (Progress...) |
-| 👫 Command (Progress...)                                 | 👷 Builder (Progress...)                   | 🌉 Bridge (Progress...)                     |
-| 🎶 Interpreter (Progress...)                         | 🏭 Factory Method (Progress...)     | 🌿 Composite (Progress...)               |
-| 🍫 Iterator (Progress...)                               | 🔂 Monostate (Progress...)               | 🍧 Decorator (Progress...)               |
-| 💐 Mediator (Progress...)                               | 🃏 Prototype (Progress...)               | 🎁 Facade (Progress...)                     |
-| 💾 Memento (Progress...)                                 | 💍 Singleton (Progress...)               | 🍃 Flyweight (Progress...)               |
-| 👓 Observer                               |                                          | ☔ Protection Proxy (Progress...) |
-| 🐉 State (Progress...)                                     |                                          | 🍬 Virtual Proxy (Progress...)       |
-| 💡 Strategy (Progress...)                               |                                          |                                          |
-| 🏃 Visitor (Progress...)                                 |                                          |                                          |
-| 📝 Template Method (Progress...)                 |                                          |                                          |
+| 🐝 Chain Of Responsibility (In Progress) | 🌰 Abstract Factory (In Progress) | 🔌 Adapter (In Progress) |
+| 👫 Command (In Progress)                 | 👷 Builder (In Progress)           | 🌉 Bridge (In Progress)   |
+| 🎶 Interpreter (In Progress)             | 🏭 Factory Method (In Progress)    | 🌿 Composite (In Progress) |
+| 🍫 Iterator (In Progress)                | 🔂 Monostate (In Progress)         | 🍧 Decorator (In Progress) |
+| 💐 Mediator (In Progress)                | 🃏 Prototype (In Progress)         | 🎁 Facade (In Progress)    |
+| 💾 Memento (In Progress)                 | 💍 Singleton (In Progress)         | 🍃 Flyweight (In Progress) |
+| 👓 Observer                              |                                    | ☔ Protection Proxy (In Progress) |
+| 🐉 State (In Progress)                   |                                    | 🍬 Virtual Proxy (In Progress) |
+| 💡 Strategy (In Progress)                |                                    |                            |
+| 🏃 Visitor (In Progress)                 |                                    |                            |
+| 📝 Template Method (In Progress)         |                                    |                            |
 
+---
 
-## [Data Structure](https://github.com/AF2B/DataStructure)
-| [Linear](#)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical)                | [Graph-Based](#)                |
-| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| [📄 Array (Progress...)](#)                             | [🌲 Tree (Progress...)](#)                               | [🔗 Graph (Progress...)](#)                             |
-| [📑 Linked List (Progress...)](#)                       | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/Hierarchical/BinaryTree.swift)                        | [🔀 Directed Graph (Progress...)](#)                    |
-| [📋 Stack (Progress...)](#)                             | [🌲 AVL Tree (Progress...)](#)                           | [🌐 Undirected Graph (Progress...)](#)                  |
-| [📜 Queue (Progress...)](#)                             | [🌴 Red-Black Tree (Progress...)](#)                     | [📉 Weighted Graph (Progress...)](#)                    |
-| [📄 Deque (Progress...)](#)                             | [🌿 B-Tree (Progress...)](#)                             | [🔄 Cyclic Graph (Progress...)](#)                      |
-| [📑 Circular Buffer (Progress...)](#)                   | [🌲 Trie (Progress...)](#)                               | [🚦 Acyclic Graph (Progress...)](#)                     |
-| [📋 Priority Queue (Progress...)](#)                    | [🌳 Heap (Progress...)](#)                               |                                          |
-| [📜 Sparse Matrix (Progress...)](#)                     |                                          |                                          |
+## 🛠️ Data Structures
+### [Explore More](https://github.com/AF2B/DataStructure)
+| [Linear](#)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical) | [Graph-Based](#)                  |
+| ---------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------- |
+| [📄 Array (In Progress)](#)              | [🌲 Tree (In Progress)](#)                                                   | [🔗 Graph (In Progress)](#)        |
+| [📑 Linked List (In Progress)](#)        | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/Hierarchical/BinaryTree.swift) | [🔀 Directed Graph (In Progress)](#) |
+| [📋 Stack (In Progress)](#)              | [🌲 AVL Tree (In Progress)](#)                                               | [🌐 Undirected Graph (In Progress)](#) |
+| [📜 Queue (In Progress)](#)              | [🌴 Red-Black Tree (In Progress)](#)                                         | [📉 Weighted Graph (In Progress)](#) |
+| [📄 Deque (In Progress)](#)              | [🌿 B-Tree (In Progress)](#)                                                 | [🔄 Cyclic Graph (In Progress)](#) |
+| [📑 Circular Buffer (In Progress)](#)    | [🌲 Trie (In Progress)](#)                                                   | [🚦 Acyclic Graph (In Progress)](#) |
+| [📋 Priority Queue (In Progress)](#)     | [🌳 Heap (In Progress)](#)                                                   |                                     |
+| [📜 Sparse Matrix (In Progress)](#)      |                                                                              |                                     |
 
-</br>
+---
 
-## Project Guidelines
-A set of best practices in my projects.
+## 📑 Project Guidelines
+A set of best practices for my projects:
 - [X] [Git](https://medium.com/@andre.borbaaf2b/melhores-práticas-para-usar-git-no-desenvolvimento-de-software-70f752fc7f5f)
 - [ ] [Documentation](#)
 - [ ] [Environments](#)
@@ -71,37 +74,29 @@ A set of best practices in my projects.
 - [ ] [Logging](#)
 - [ ] [API](#)
 
-<br />
-
-
-<br />
-
+---
 
 ## 🏫 Education
 ### UNIBRA - Centro Universitário Brasileiro
-2021 - 2024
-### Systems Analysis and Development.
+**2021 - 2024**  
+**Degree:** Systems Analysis and Development
 
-</br>
+---
 
 ## 🎓 Postgraduate
 ### [Planned]
 
-</br>
+---
 
-## Contacts
-👋 LinkedIn: [https://www.linkedin.com/in/andrefilipefonsecaborba/](https://www.linkedin.com/in/andrefilipefonsecaborba/) </br>
+## 📬 Contacts
+- 👋 LinkedIn: [https://www.linkedin.com/in/andrefilipefonsecaborba/](https://www.linkedin.com/in/andrefilipefonsecaborba/)
+- 👋 GitHub: [https://github.com/AF2B](https://github.com/AF2B)
+- 👋 LeetCode: [https://leetcode.com/u/andreborba/](https://leetcode.com/u/andreborba/)
+- 🌎 Website: [In Progress...]
+- 🌎 Medium: [https://medium.com/@andre.borbaaf2b](https://medium.com/@andre.borbaaf2b)
+- 🌎 DEV Community: [https://dev.to/borba](https://dev.to/borba)
+- 🖨️ PDF: [In Progress...]
 
-👋 Github: [https://github.com/AF2B](https://github.com/AF2B) </br>
-
-👋 LeetCode: [https://leetcode.com/u/andreborba/](https://leetcode.com/u/andreborba/) </br>
-
-🌎 Website: [Progress]() </br>
-
-🌎 Medium [https://medium.com/@andre.borbaaf2b](https://medium.com/@andre.borbaaf2b) </br>
-
-🌎 DEV Community [https://dev.to/borba](https://dev.to/borba) </br>
-
-🖨️ PDF: [Progress]() </br>
+---
 
 ALT: АНДРЕ БОРБА
