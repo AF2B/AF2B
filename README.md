@@ -56,8 +56,7 @@
 | [📋 Stack (In Progress)](#)              | [🌲 AVL Tree (In Progress)](#)                                               | [🌐 Undirected Graph (In Progress)](#) |
 | [📜 Queue (In Progress)](#)              | [🌴 Red-Black Tree (In Progress)](#)                                         | [📉 Weighted Graph (In Progress)](#) |
 | [📄 Deque (In Progress)](#)              | [🌿 B-Tree (In Progress)](#)                                                 | [🔄 Cyclic Graph (In Progress)](#) |
-| [📑 Circular Buffer (In Progress)](#)    | [🌲 Trie (In Progress)](#)                                                   | [🚦 Acyclic Graph (In Progress)](#) |
-| [📋 Priority Queue (In Progress)](#)     | [🌳 Heap (In Progress)](#)                                                   |                                     |
+| [📑 Circular Buffer (In Progress)](#)    | [📋 Priority Queue (In Progress)](#)                                          | [🚦 Acyclic Graph (In Progress)](#) |
 | [📜 Sparse Matrix (In Progress)](#)      |                                                                              |                                     |
 
 ---
