@@ -51,14 +51,14 @@
 ### [Explore More](https://github.com/AF2B/DataStructure)
 | [Linear](#)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical) | [Graph-Based](#)                  |
 | ---------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------- |
-| [📄 Array (In Progress)]              | [🌲 Tree (In Progress)]                                                   | [🔗 Graph (In Progress)]        |
-| [📑 Linked List (In Progress)]        | [🌳 Binary Tree](https://github.com/AF2B/DataStructure/blob/main/Hierarchical/BinaryTree.swift) | [🔀 Directed Graph (In Progress)] |
-| [📋 Stack (In Progress)]              | [🌲 AVL Tree (In Progress)]                                               | [🌐 Undirected Graph (In Progress)] |
-| [📜 Queue (In Progress)]              | [🌴 Red-Black Tree (In Progress)]                                         | [📉 Weighted Graph (In Progress)] |
-| [📄 Deque (In Progress)]              | [🌿 B-Tree (In Progress)]                                                 | [🔄 Cyclic Graph (In Progress)] |
-| [📑 Circular Buffer (In Progress)]    | [🌲 Trie (In Progress)]                                                   | [🚦 Acyclic Graph (In Progress)] |
-| [📋 Priority Queue (In Progress)]     | [🌳 Heap (In Progress)]                                                   |                                     |
-| [📜 Sparse Matrix (In Progress)]      |                                                                              |                                     |
+| [📄 Array (In Progress)](#)              | [🌲 Tree (In Progress)](#)                                                   | [🔗 Graph (In Progress)](#)        |
+| [📑 Linked List (In Progress)](#)        | [🌳 Binary Tree (In Progress)](#)                                             | [🔀 Directed Graph (In Progress)](#) |
+| [📋 Stack (In Progress)](#)              | [🌲 AVL Tree (In Progress)](#)                                               | [🌐 Undirected Graph (In Progress)](#) |
+| [📜 Queue (In Progress)](#)              | [🌴 Red-Black Tree (In Progress)](#)                                         | [📉 Weighted Graph (In Progress)](#) |
+| [📄 Deque (In Progress)](#)              | [🌿 B-Tree (In Progress)](#)                                                 | [🔄 Cyclic Graph (In Progress)](#) |
+| [📑 Circular Buffer (In Progress)](#)    | [🌲 Trie (In Progress)](#)                                                   | [🚦 Acyclic Graph (In Progress)](#) |
+| [📋 Priority Queue (In Progress)](#)     | [🌳 Heap (In Progress)](#)                                                   |                                     |
+| [📜 Sparse Matrix (In Progress)](#)      |                                                                              |                                     |
 
 ---
 
