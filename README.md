@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Clojure](https://clojure.org) | [Java](https://roadmap.sh/java) | [Swift](https://www.swift.org)
+[Clojure](https://clojure.org) | [Swift](https://www.swift.org)
 </br>
 
 
@@ -14,11 +14,16 @@
 <div style="page-break-after: always;"></div>
 
 ## 💻 Technologies
-### [Progress]
 ### Tech Stack
+- **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google)
+- **Preferred:** Swift, Clojure
+- **Exploring:** Python
 ### Infra/DevOps
+- **Tools & Services:** Bamboo, Azure DevOps, Jenkins, Docker
 ### Auth Providers
+- **Services:** JWT (JSON Web Token), OAuth
 ### PM Stack
+- **Tools & Methodologies:** Jira, Scrum, Agile, Kanban
 
 <div style="page-break-after: always;"></div>
 
@@ -86,7 +91,6 @@ A set of best practices in my projects.
 
 ## Contacts
 👋 LinkedIn: [https://www.linkedin.com/in/andrefilipefonsecaborba/](https://www.linkedin.com/in/andrefilipefonsecaborba/) </br>
-
 
 👋 Github: [https://github.com/AF2B](https://github.com/AF2B) </br>
 
