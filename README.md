@@ -40,7 +40,7 @@
 | 💐 Mediator (In Progress)                | 🃏 Prototype (In Progress)         | 🎁 Facade (In Progress)    |
 | 💾 Memento (In Progress)                 | 💍 Singleton (In Progress)         | 🍃 Flyweight (In Progress) |
 | 👓 Observer                              |                                    | ☔ Protection Proxy (In Progress) |
-| 🐉 State (In Progress)                   |                                    | 🍬 Virtual Proxy (In Progress) |
+| 🐉 State                    |                                    | 🍬 Virtual Proxy (In Progress) |
 | 💡 Strategy (In Progress)                |                                    |                            |
 | 🏃 Visitor (In Progress)                 |                                    |                            |
 | 📝 Template Method (In Progress)         |                                    |                            |
