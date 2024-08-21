@@ -67,7 +67,7 @@ A set of best practices for my projects:
 - [X] [Documentation](https://medium.com/@andre.borbaaf2b/documentação-de-software-539f79292abe)
 - [ ] [Environments](#)
 - [ ] [Dependencies](#)
-- [ ] [Testing](#)
+- [X] [Testing](https://medium.com/@andre.borbaaf2b/why-you-should-give-more-value-to-unit-tests-and-best-practices-to-improve-your-software-quality-0d476ae1cb35)
 - [ ] [Structure and Naming](#)
 - [ ] [Code Style](#)
 - [ ] [Logging](#)
