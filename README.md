@@ -4,7 +4,6 @@
 ---
 
 ## 🎖️ Achievements
-### 🚀 Developer Rankings: [In Progress...]
 
 <div style="page-break-after: always;"></div>
 
