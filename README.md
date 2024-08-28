@@ -90,10 +90,10 @@ A set of best practices for my projects:
 - 👋 LinkedIn: [https://www.linkedin.com/in/andrefilipefonsecaborba/](https://www.linkedin.com/in/andrefilipefonsecaborba/)
 - 👋 GitHub: [https://github.com/AF2B](https://github.com/AF2B)
 - 👋 LeetCode: [https://leetcode.com/u/andreborba/](https://leetcode.com/u/andreborba/)
-- 🌎 Website: [In Progress...]
+- 🌎 Website: [In Progress]
 - 🌎 Medium: [https://medium.com/@andre.borbaaf2b](https://medium.com/@andre.borbaaf2b)
 - 🌎 DEV Community: [https://dev.to/borba](https://dev.to/borba)
-- 🖨️ PDF: [In Progress...]
+- 🖨️ PDF: [In Progress]
 
 ---
 
