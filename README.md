@@ -11,7 +11,7 @@
 
 ## 💻 Technologies
 ### Tech Stack
-- **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google)
+- **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
 - **Preferred:** Clojure, Java, TypeScript
 - **Exploring:** Python
 
