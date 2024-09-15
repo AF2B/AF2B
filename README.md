@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Java](https://www.java.com/pt-BR/) | [Clojure](https://clojure.org) | [TypeScript](https://www.typescriptlang.org)
+[Clojure](https://clojure.org/) | [Ruby](https://www.ruby-lang.org/en/) | [TypeScript](https://www.typescriptlang.org)
 
 ---
 
@@ -12,7 +12,7 @@
 ## 💻 Technologies
 ### Tech Stack
 - **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
-- **Preferred:** Clojure, Java, TypeScript
+- **Preferred:** Clojure, Ruby, TypeScript
 - **Exploring:** Python
 
 ### Infra/DevOps
