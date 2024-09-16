@@ -68,7 +68,7 @@ A set of best practices for my projects:
 - [ ] [Dependencies](#)
 - [X] [Testing](https://medium.com/@andre.borbaaf2b/why-you-should-give-more-value-to-unit-tests-and-best-practices-to-improve-your-software-quality-0d476ae1cb35)
 - [ ] [Structure and Naming](#)
-- [ ] [Code Style](#)
+- [X] [Code Style](https://medium.com/@andre.borbaaf2b/a-import%C3%A2ncia-do-code-style-elevando-a-qualidade-do-seu-c%C3%B3digo-a3b64000ca8a)
 - [X] [Logging](https://medium.com/@andre.borbaaf2b/a-import%C3%A2ncia-do-logging-em-aplica%C3%A7%C3%B5es-robustas-muito-al%C3%A9m-de-simples-prints-094ee00a3b2a)
 - [ ] [API](#)
 
