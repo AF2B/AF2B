@@ -53,7 +53,7 @@
 | 📄 Array                  | 🌲 Tree (In Progress)                                                        | 🔗 Graph (In Progress)           |
 | 📑 Linked List (In Progress)            | 🌳 Binary Tree (In Progress)                                                  | 🔀 Directed Graph (In Progress)  |
 | 📋 Stack                  | 🌲 AVL Tree (In Progress)                                                      | 🌐 Undirected Graph (In Progress)|
-| 📜 Queue (In Progress)                  | 🌴 Red-Black Tree (In Progress)                                                | 📉 Weighted Graph (In Progress)  |
+| 📜 Queue                 | 🌴 Red-Black Tree (In Progress)                                                | 📉 Weighted Graph (In Progress)  |
 | 📄 Deque (In Progress)                  | 🌿 B-Tree (In Progress)                                                        | 🔄 Cyclic Graph (In Progress)    |
 | 📑 Circular Buffer (In Progress)        | 📋 Priority Queue (In Progress)                                                 | 🚦 Acyclic Graph (In Progress)   |
 | 📜 Sparse Matrix (In Progress)          |                                                                              |                                   |
