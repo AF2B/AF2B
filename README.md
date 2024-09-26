@@ -48,7 +48,7 @@
 
 ## 🛠️ Data Structures
 ### [Explore More](https://github.com/AF2B/DataStructure)
-| [Linear]()                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical) | [Graph-Based]()                  |
+| [Linear](https://github.com/AF2B/DataStructure/tree/main/Linear)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical) | [Graph-Based]()                  |
 | ---------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------- |
 | 📄 Array                  | 🌲 Tree (In Progress)                                                        | 🔗 Graph (In Progress)           |
 | 📑 Linked List (In Progress)            | 🌳 Binary Tree (In Progress)                                                  | 🔀 Directed Graph (In Progress)  |
