@@ -82,7 +82,7 @@ A set of best practices for my projects:
 ---
 
 ## 🎓 Postgraduate
-### [Planned]
+### [Software Engineering - 2025/Planned]
 
 ---
 
