@@ -22,7 +22,7 @@
 - **Services:** JWT (JSON Web Token), OAuth
 
 ### PM Stack
-- **Tools & Methodologies:** Jira, Scrum, Agile, Kanban
+- **Tools & Methodologies:** Jira, Scrum, Agile, Kanban, Azure
 
 <div style="page-break-after: always;"></div>
 
