@@ -76,7 +76,7 @@ A set of best practices for my projects:
 
 ## 🏫 Education
 ### UNIBRA - Centro Universitário Brasileiro
-**2021 - 2024**  
+**2021 - 2024**
 **Degree:** Systems Analysis and Development
 
 ---
