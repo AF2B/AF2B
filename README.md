@@ -50,7 +50,7 @@
 ### [Explore More](https://github.com/AF2B/DataStructure)
 | [Linear](https://github.com/AF2B/DataStructure/tree/main/Linear)                              | [Hierarchical](https://github.com/AF2B/DataStructure/tree/main/Hierarchical) | [Graph-Based]()                  |
 | ---------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------- |
-| 📄 Array                  | 🌲 Tree (In Progress)                                                        | 🔗 Graph (In Progress)           |
+| 📄 Array                  | 🌲 Tree                                                        | 🔗 Graph (In Progress)           |
 | 📑 Linked List             | 🌳 Binary Tree (In Progress)                                                  | 🔀 Directed Graph (In Progress)  |
 | 📋 Stack                  | 🌲 AVL Tree (In Progress)                                                      | 🌐 Undirected Graph (In Progress)|
 | 📜 Queue                 | 🌴 Red-Black Tree (In Progress)                                                | 📉 Weighted Graph (In Progress)  |
