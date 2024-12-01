@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Go](https://go.dev/) | [TypeScript](https://www.typescriptlang.org/) | [Rust](https://www.rust-lang.org/)
+[Go](https://go.dev/) | [TypeScript](https://www.typescriptlang.org/) | [Ruby](https://www.ruby-lang.org/pt/)
 
 ---
 
