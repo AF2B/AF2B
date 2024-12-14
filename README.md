@@ -13,7 +13,7 @@
 ### Tech Stack
 - **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
 - **Preferred:** Go, TypeScript, Clojure
-- **Exploring:** Solidity, Viper
+- **Exploring:** Lua
 
 ### Infra/DevOps
 - **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps
