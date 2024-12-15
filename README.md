@@ -37,7 +37,7 @@
 | 🎶 Interpreter (In Progress)             | 🏭 Factory Method    | 🌿 Composite (In Progress) |
 | 🍫 Iterator (In Progress)                | 🔂 Monostate (In Progress)         | 🍧 Decorator (In Progress) |
 | 💐 Mediator (In Progress)                | 🃏 Prototype (In Progress)         | 🎁 Facade (In Progress)    |
-| 💾 Memento (In Progress)                 | 💍 Singleton (In Progress)         | 🍃 Flyweight (In Progress) |
+| 💾 Memento (In Progress)                 | 💍 Singleton         | 🍃 Flyweight (In Progress) |
 | 👓 Observer                              |                                    | ☔ Protection Proxy (In Progress) |
 | 🐉 State                    |                                    | 🍬 Virtual Proxy (In Progress) |
 | 💡 Strategy (In Progress)                |                                    |                            |
