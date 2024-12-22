@@ -35,7 +35,7 @@
 | 🐝 Chain Of Responsibility (In Progress) | 🌰 Abstract Factory (In Progress) | 🔌 Adapter (In Progress) |
 | 👫 Command (In Progress)                 | 👷 Builder            | 🌉 Bridge (In Progress)   |
 | 🎶 Interpreter (In Progress)             | 🏭 Factory Method    | 🌿 Composite (In Progress) |
-| 🍫 Iterator (In Progress)                | 🔂 Monostate (In Progress)         | 🍧 Decorator (In Progress) |
+| 🍫 Iterator (In Progress)                | 🔂 Monostate          | 🍧 Decorator (In Progress) |
 | 💐 Mediator (In Progress)                | 🃏 Prototype (In Progress)         | 🎁 Facade (In Progress)    |
 | 💾 Memento (In Progress)                 | 💍 Singleton         | 🍃 Flyweight (In Progress) |
 | 👓 Observer                              |                                    | ☔ Protection Proxy (In Progress) |
