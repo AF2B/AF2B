@@ -16,7 +16,7 @@
 - **Exploring:** Software Architecture, DDD, SOLID
 
 ### Infra/DevOps
-- **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps
+- **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps, GitHub Actions, GitHub Workflows
 
 ### Auth Providers
 - **Services:** JWT (JSON Web Token), OAuth
