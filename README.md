@@ -30,12 +30,12 @@
 
 ## 🧩 Design Patterns
 ### [Explore More](https://github.com/AF2B/DesignPattern)
-| [Behavioral]()                              | [Creational](https://github.com/AF2B/DesignPattern/tree/main/Creational)                | [Structural]()                |
+| [Behavioral]()                              | [Creational](https://github.com/AF2B/DesignPattern/tree/main/Creational)                | [Structural](https://github.com/AF2B/DesignPattern/tree/main/Structural)                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | 🐝 Chain Of Responsibility (In Progress) | 🌰 Abstract Factory (In Progress) | 🔌 Adapter (In Progress) |
 | 👫 Command (In Progress)                 | 👷 Builder            | 🌉 Bridge (In Progress)   |
 | 🎶 Interpreter (In Progress)             | 🏭 Factory Method    | 🌿 Composite (In Progress) |
-| 🍫 Iterator (In Progress)                | 🔂 Monostate          | 🍧 Decorator (In Progress) |
+| 🍫 Iterator (In Progress)                | 🔂 Monostate          | 🍧 Decorator |
 | 💐 Mediator (In Progress)                | 🃏 Prototype (In Progress)         | 🎁 Facade (In Progress)    |
 | 💾 Memento (In Progress)                 | 💍 Singleton         | 🍃 Flyweight (In Progress) |
 | 👓 Observer                              |                                    | ☔ Protection Proxy (In Progress) |
