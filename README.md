@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
-[Java](https://www.java.com/en/download/help/whatis_java.html) | [TypeScript](https://www.typescriptlang.org/) | [Clojure](https://clojure.org/)
+ [Clojure](https://clojure.org/) | [TypeScript](https://www.typescriptlang.org/) | [Go](https://go.dev/)
 
 ---
 
