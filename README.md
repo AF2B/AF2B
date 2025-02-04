@@ -12,8 +12,8 @@
 ## 💻 Technologies
 ### Tech Stack
 - **Professional:** Ruby, Java, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
-- **Preferred:** Java, TypeScript, Clojure, Ruby
-- **Exploring:** Software Architecture, DDD, SOLID, Python and Lua
+- **Preferred:** Java, TypeScript, Clojure, Ruby, GO
+- **Exploring:** Software Architecture, DDD, SOLID, GoF
 
 ### Infra/DevOps
 - **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps, GitHub Actions, GitHub Workflows
