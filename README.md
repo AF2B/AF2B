@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
- [Clojure](https://clojure.org/) | [TypeScript](https://www.typescriptlang.org/) | [Rust](https://www.rust-lang.org/)
+ [Ruby](https://www.ruby-lang.org/en/) | [TypeScript](https://www.typescriptlang.org/) | [Rust](https://www.rust-lang.org/) | [Clojure Enthusiast](https://clojure.org/)
 
 ---
 
