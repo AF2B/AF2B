@@ -13,7 +13,7 @@
 ### Tech Stack
 - **Professional:** Ruby, Java, Python, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
 - **Preferred:** Ruby, TypeScript, Clojure, Rust
-- **Exploring:** Software Architecture, DDD, SOLID, GoF
+- **Exploring:** Blockchain, Solidity
 
 ### Infra/DevOps
 - **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps, GitHub Actions, GitHub Workflows
