@@ -1,5 +1,5 @@
 # Andre Borba | Software Engineer
- [Ruby](https://www.ruby-lang.org/en/) | [TypeScript](https://www.typescriptlang.org/) | [Rust](https://www.rust-lang.org/) | [Clojure Enthusiast](https://clojure.org/)
+ [Ruby](https://www.ruby-lang.org/en/) | [TypeScript](https://www.typescriptlang.org/) | [Clojure Enthusiast](https://clojure.org/)
 
 ---
 
@@ -12,8 +12,8 @@
 ## 💻 Technologies
 ### Tech Stack
 - **Professional:** Ruby, Java, Python, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
-- **Preferred:** Ruby, TypeScript, Clojure, Rust
-- **Exploring:** Blockchain, Solidity
+- **Preferred:** Ruby, TypeScript, Clojure
+- **Exploring:** More about Clojure and ClojureScript =)
 
 ### Infra/DevOps
 - **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps, GitHub Actions, GitHub Workflows
