@@ -1,28 +1,43 @@
 # Andre Borba | Software Engineer
-[Rust](https://www.rust-lang.org/) | [TypeScript](https://www.typescriptlang.org/) | [Java](https://www.java.com/) | [Clojure Enthusiast](https://clojure.org/)
+**Software Engineer | Functional Programming Advocate | Backend Specialist | [Clojure Enthusiast](https://clojure.org/)**
 
 ---
 
-## 🎖️ Achievements
+## 🎖️ Achievements & Publications
 
-<div style="page-break-after: always;"></div>
 
+  - [Clojure Is Awesome Series - EN-US](https://dev.to/borba/clojure-is-awesome-5f6k) - Devto Series, 2025
+  - [Article: The Importance of Adhering to RFCs and Best Practices When Building REST APIs - PT-BR](https://medium.com/beyondlabsey/a-import%C3%A2ncia-da-ader%C3%AAncia-aos-rfcs-e-boas-pr%C3%A1ticas-na-constru%C3%A7%C3%A3o-de-apis-restful-dd5d62411ad9) - 2025
+  - [The Importance of Code Style: Elevating the Quality of Your Code - PT-BR](https://medium.com/@andre.borbaaf2b/a-import%C3%A2ncia-do-code-style-elevando-a-qualidade-do-seu-c%C3%B3digo-a3b64000ca8a) - 2024
 ---
 
-## 💻 Technologies
-### Tech Stack
-- **Professional:** JavaScript/TypeScript, Ruby, Java, Python, Clojure, PL/SQL (Oracle), DB2, BigQuery (Google), NoSQL (MongoDB)
-- **Preferred:** Rust, JavaScript/TypeScript, Java, Clojure
-- **Exploring:** Blockchain
+## 💻 Tech Stack & Tooling
+### 🧠 Core Languages
+- Most Proficient:
+Ruby, Clojure, JavaScript/TypeScript <br>
+_Primary languages used in production systems and where I feel most confident and effective._
 
-### Infra/DevOps
-- **Tools & Services:** Docker, Jenkins, Bamboo, Azure DevOps, GitHub Actions, GitHub Workflows
+- Also Used Professionally:
+Java, Python <br>
+_Experience with real-world systems, but not my strongest focus today._
 
-### Auth Providers
-- **Services:** JWT (JSON Web Token), OAuth
+- Currently Exploring:
+Elixir, CassandraDB <br>
+_Diving deeper into the functional ecosystem and learning advanced patterns._
 
-### PM Stack
-- **Tools & Methodologies:** Jira, Scrum, Agile, Kanban, Azure
+### 🗄️ Databases
+- PostgreSQL, MongoDB, Oracle (PL/SQL), IBM DB2, Google BigQuery
+
+### ⚙️ DevOps & Infrastructure
+- Docker, GitHub Actions, GitHub Workflows, Jenkins, Bamboo, Azure DevOps
+
+### 🔐 Authentication & Security
+- JWT, OAuth 2.0
+
+### 📋 Project Management & Collaboration
+- Jira, Azure Boards
+- Agile methodologies: Scrum, Kanban
+- Code reviews, CI-driven development, async collaboration
 
 <div style="page-break-after: always;"></div>
 
