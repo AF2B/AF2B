@@ -22,7 +22,7 @@ Java, Python <br>
 _Experience with real-world systems, but not my strongest focus today._
 
 - Currently Exploring:
-Elixir, CassandraDB <br>
+Elixir, Haskell, DynamoDB, CassandraDB <br>
 _Diving deeper into the functional ecosystem and learning advanced patterns._
 
 ### 🗄️ Databases
