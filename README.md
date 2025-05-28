@@ -37,7 +37,7 @@ This exploration naturally complements my passion for distributed systems archit
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise)*
-**Clojure** | **Rust** | **JavaScript/TypeScript**
+**Clojure** | **F#/OCaml** | **JavaScript/TypeScript**
 
 *These are my weapons of choice - languages where I think functionally, write expressively, and build production-ready systems with confidence. My expertise runs deep in these ecosystems, from language internals to advanced patterns and best practices.*
 
