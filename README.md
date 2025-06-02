@@ -37,7 +37,7 @@ This exploration naturally complements my passion for distributed systems archit
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise)*
-**Clojure** | **F#/OCaml** | **JavaScript/TypeScript**
+**Clojure** | **JavaScript/TypeScript**
 
 *These are my weapons of choice - languages where I think functionally, write expressively, and build production-ready systems with confidence. My expertise runs deep in these ecosystems, from language internals to advanced patterns and best practices.*
 
@@ -47,9 +47,9 @@ This exploration naturally complements my passion for distributed systems archit
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
 ### 🌱 Active Exploration
-**Rust** | **Go** | **Solidity** | **Vyper**
+**Rust** | **Go** | **Solidity**
 
-*Currently expanding my functional programming horizons and diving deep into systems programming and blockchain development.*
+*Currently expanding my programming horizons and diving deep into systems programming and blockchain development.*
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
