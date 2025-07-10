@@ -47,7 +47,7 @@ This exploration naturally complements my passion for distributed systems archit
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
 ### 🌱 Active Exploration
-**Rust** | **Go** | **Solidity**
+**Rust** | **Solidity** | **Vyper**
 
 *Currently expanding my programming horizons and diving deep into systems programming and blockchain development.*
 
@@ -131,13 +131,13 @@ This exploration naturally complements my passion for distributed systems archit
 ## 🎓 Education & Continuous Learning
 
 ### **Formal Education**
-**UNIBRA - Centro Universitário Brasileiro**  
-*Systems Analysis and Development* | **2021 - 2024**  
-Focus: Software engineering principles, system design, database management
+**Anhanguera**  
+*Blockchain, Cryptocurrencies, and Finance* | **2026 - 2028**  
+Focus: Distributed ledger technologies, decentralized finance (DeFi), smart contracts, crypto-economics, and digital financial systems
 
-### **Advanced Specialization** *(Planned 2026)*
-- **🎯 Software Engineering Postgraduate** - Advanced architecture, distributed systems, technical leadership
+### **Advanced Specialization** *(Planned 2028~2029)*
 - **🔗 Blockchain Technology Postgraduate** - Cryptocurrency protocols, smart contract security, DeFi architecture
+- **🎯 Software Engineering Postgraduate** - Advanced architecture, distributed systems, technical leadership
 
 ### **Continuous Learning Philosophy**
 *Committed to staying at the forefront of technology through consistent study, practical implementation, and knowledge sharing with the development community.*
@@ -150,6 +150,7 @@ Focus: Software engineering principles, system design, database management
 - 💼 **LinkedIn**: [andrefilipefonsecaborba](https://www.linkedin.com/in/andrefilipefonsecaborba/) - *Professional networking and industry insights*
 - 🚀 **GitHub**: [AF2B](https://github.com/AF2B) - *Open source contributions and technical projects*
 - 🧠 **LeetCode**: [andreborba](https://leetcode.com/u/andreborba/) - *Algorithmic problem solving and competitive programming*
+- ❒ **CodeHawks**: [CodeHawks](https://profiles.cyfrin.io/u/borba) - *Blockchain - Competitive Audits*
 
 **Technical Writing & Knowledge Sharing**
 - ✍️ **Medium**: [@andre.borbaaf2b](https://medium.com/@andre.borbaaf2b) - *In-depth technical articles and software engineering insights*
