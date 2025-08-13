@@ -1,23 +1,23 @@
-# Andre Borba | Software Engineer | Blockchain Explorer
-**Software Engineer | Functional Programming Advocate | Backend Specialist | [Clojure Enthusiast](https://clojure.org/) | Blockchain Explorer**
+# Andre Borba
+**Software Engineer | Clojure & Functional Programming | Clean Architecture • Event Driven • DDD**
 
-> *"Building robust, scalable systems with clean architecture and functional programming principles, while exploring the future of decentralized technologies."*
+> *"Engineering backend poetry through functional programming mastery—where Clojure's immutable elegance transforms complexity into scalable art, one pure function at a time."*
 
 ---
 
-## 🚀 Currently Exploring
-**🔗 Blockchain & Web3 Technologies** - *Heavy Investment in Learning & Research*
+## ☄️ Currently Exploring
+**🔗 Advanced Functional Architectures** - *The Pursuit of Computational Elegance*
 
-I'm currently dedicating significant time and energy to mastering blockchain technologies and Web3 development. This journey includes:
+I'm currently immersed in the deeper territories of functional programming mastery and architectural philosophy:
 
-- **Smart Contract Development**: Learning Solidity and exploring contract architecture patterns
-- **Blockchain Fundamentals**: Deep-diving into consensus mechanisms, cryptographic principles, and distributed ledger technologies  
-- **DeFi Protocols**: Studying decentralized finance mechanisms, liquidity pools, and automated market makers
-- **Web3 Integration**: Building bridges between traditional backend systems and blockchain networks
-- **Research Projects**: Analyzing real-world blockchain use cases across different industries
-- **Protocol Analysis**: Understanding various blockchain protocols (Ethereum, Polygon, Solana) and their technical trade-offs
+- **Pure Function Ecosystems**: Crafting systems where side effects are tamed and predictability reigns supreme
+- **Event Sourcing Mastery**: Building temporal architectures that capture the poetry of state transitions
+- **Clojure's Hidden Depths**: Exploring advanced macros, transducers, and the art of data transformation
+- **Immutable Infrastructure**: Designing systems that embody functional principles from code to deployment
+- **Distributed Functional Systems**: Architecting resilient networks where functions flow like mathematical theorems
+- **Performance Alchemy**: Transforming elegant code into blazing-fast, resource-efficient systems
 
-This exploration naturally complements my passion for distributed systems architecture and represents the next frontier in my technical evolution.
+This journey represents the convergence of mathematical beauty and engineering pragmatism—where each exploration deepens my understanding of computation as an art form.
 
 ---
 
@@ -37,7 +37,7 @@ This exploration naturally complements my passion for distributed systems archit
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise)*
-**Clojure** | **JavaScript/TypeScript**
+**Clojure** | **JavaScript/TypeScript** | **Python**
 
 *These are my weapons of choice - languages where I think functionally, write expressively, and build production-ready systems with confidence. My expertise runs deep in these ecosystems, from language internals to advanced patterns and best practices.*
 
@@ -46,10 +46,9 @@ This exploration naturally complements my passion for distributed systems archit
 
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
-### 🌱 Active Exploration
-**Rust** | **Solidity** | **Vyper**
-
-*Currently expanding my programming horizons and diving deep into systems programming and blockchain development.*
+### 🌌 Active Exploration
+**Clojure** | **ClojureScript** | **TypeScript** | **Python**
+*Mastering the full spectrum of functional elegance—from JVM's immutable poetry to JavaScript's evolved type safety, weaving seamless full-stack architectures.*
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
@@ -132,16 +131,15 @@ This exploration naturally complements my passion for distributed systems archit
 
 ### **Formal Education**
 **Anhanguera**  
-*Blockchain, Cryptocurrencies, and Finance* | **2026 - 2028**  
-Focus: Distributed ledger technologies, decentralized finance (DeFi), smart contracts, crypto-economics, and digital financial systems
+*Information Security* | **2026 - 2028**  
+Focus: Cybersecurity frameworks, threat analysis, secure system architecture, cryptographic protocols, and defensive programming methodologies
 
 ### **Advanced Specialization** *(Planned 2028~2029)*
-- **🔗 Blockchain Technology Postgraduate** - Cryptocurrency protocols, smart contract security, DeFi architecture
-- **🎯 Software Engineering Postgraduate** - Advanced architecture, distributed systems, technical leadership
+- **🛡️ Cyber Defense Postgraduate** - Advanced threat detection, incident response, security architecture, and digital forensics
+- **⚙️ Software Engineering Postgraduate** - Systems architecture mastery, distributed computing, secure development lifecycle, and technical leadership
 
 ### **Continuous Learning Philosophy**
-*Committed to staying at the forefront of technology through consistent study, practical implementation, and knowledge sharing with the development community.*
-
+*Committed to evolving at the intersection of secure architecture and functional programming—where robust systems meet defensive excellence through continuous study and knowledge sharing.*
 ---
 
 ## 🌐 Professional Network & Portfolio
