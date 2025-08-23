@@ -1,23 +1,23 @@
 # Andre Borba
-**Software Engineer | Clojure & Functional Programming | Clean Architecture • Event Driven • DDD**
+**Software Engineer | Blockchain & Web3 | Blockchain Researcher | Clean Architecture • DDD • TDD • BDD**
 
-> *"Engineering backend poetry through functional programming mastery—where Clojure's immutable elegance transforms complexity into scalable art, one pure function at a time."*
+> *"Engineering decentralized backends through functional and secure design—where blockchain consensus meets immutable logic, and every smart contract becomes a piece of scalable art."*
 
 ---
 
 ## ☄️ Currently Exploring
-**🔗 Advanced Functional Architectures** - *The Pursuit of Computational Elegance*
+**🔗 Blockchain** - *The Pursuit of Decentralized Elegance*
 
-I'm currently immersed in the deeper territories of functional programming mastery and architectural philosophy:
+I'm currently immersed in the deeper territories of blockchain engineering and distributed computation:
 
-- **Pure Function Ecosystems**: Crafting systems where side effects are tamed and predictability reigns supreme
-- **Event Sourcing Mastery**: Building temporal architectures that capture the poetry of state transitions
-- **Clojure's Hidden Depths**: Exploring advanced macros, transducers, and the art of data transformation
-- **Immutable Infrastructure**: Designing systems that embody functional principles from code to deployment
-- **Distributed Functional Systems**: Architecting resilient networks where functions flow like mathematical theorems
-- **Performance Alchemy**: Transforming elegant code into blazing-fast, resource-efficient systems
+- **Smart Contract Engineering**: Writing secure and gas-optimized contracts in Solidity and Rust
+- **DeFi Protocols & DAOs**: Designing financial primitives and decentralized governance mechanisms
+- **Zero-Knowledge Proofs**: Researching advanced cryptography for scalability and privacy-preserving computation
+- **Layer 2 Architectures**: Exploring optimistic and zk-rollups for high-throughput systems
+- **Distributed Systems**: Applying functional principles to resilient and trustless architectures
+- **AI + Blockchain Synergy**: Leveraging Python and GenAI to augment smart contract analysis and ecosystem tooling
 
-This journey represents the convergence of mathematical beauty and engineering pragmatism—where each exploration deepens my understanding of computation as an art form.
+This journey represents the convergence of decentralized trust, functional elegance, and engineering pragmatism—where each exploration brings me closer to mastering blockchain as both a science and an art.
 
 ---
 
@@ -27,6 +27,7 @@ This journey represents the convergence of mathematical beauty and engineering p
 - [**Clojure Is Awesome Series**](https://dev.to/borba/clojure-is-awesome-5f6k) - *English* | Comprehensive series exploring Clojure's elegance and power - Dev.to, 2025
 - [**The Importance of Adhering to RFCs and Best Practices When Building REST APIs**](https://medium.com/beyondlabsey/a-import%C3%A2ncia-da-ader%C3%AAncia-aos-rfcs-e-boas-pr%C3%A1ticas-na-constru%C3%A7%C3%A3o-de-apis-restful-dd5d62411ad9) - *Portuguese* | Deep dive into API design standards - Medium, 2025
 - [**The Importance of Code Style: Elevating the Quality of Your Code**](https://medium.com/@andre.borbaaf2b/a-import%C3%A2ncia-do-code-style-elevando-a-qualidade-do-seu-c%C3%B3digo-a3b64000ca8a) - *Portuguese* | Code quality and maintainability practices - Medium, 2024
+- [**Surfing with FP Java**](https://dev.to/borba/surfing-with-fp-java-the-beginning-4dj7) - *English* | Deep dive into Functional Interfaces in Java
 
 **🏆 Professional Impact**
 - **Production Systems**: Architected and delivered scalable backend solutions across Insurance, Education, and Finance sectors
@@ -37,9 +38,9 @@ This journey represents the convergence of mathematical beauty and engineering p
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise)*
-**Clojure** | **JavaScript/TypeScript** | **Python**
+**Python** | **Solidity** | **TypeScript** | **Rust**
 
-*These are my weapons of choice - languages where I think functionally, write expressively, and build production-ready systems with confidence. My expertise runs deep in these ecosystems, from language internals to advanced patterns and best practices.*
+*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, Solidity for developing secure smart contracts, TypeScript for Web3/dApp front-ends, and Rust for low-level systems and high-performance blockchains.*
 
 ### 🔧 Professional Experience
 **Java** | **Python** | **Ruby** | **Clojure** | **JavaScript/TypeScript**
@@ -47,20 +48,19 @@ This journey represents the convergence of mathematical beauty and engineering p
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
 ### 🌌 Active Exploration
-**Clojure** | **ClojureScript** | **TypeScript** | **Python**
-*Mastering the full spectrum of functional elegance—from JVM's immutable poetry to JavaScript's evolved type safety, weaving seamless full-stack architectures.*
+**Blockchain & Web3** | **Smart Contract Security** | **DeFi Architectures** | **Zero-Knowledge Proofs (ZKPs)**
+*My current exploration is in the decentralized universe: from optimizing smart contracts for lower gas costs, through DeFi protocols and DAOs, to research in advanced cryptography and zero-knowledge proofs for scalability and privacy.*
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
-**NoSQL**: MongoDB, DynamoDB(Learning)  
+**NoSQL**: MongoDB 
 **Analytics**: Google BigQuery 
 **Performance**: Query optimization, indexing strategies, database design patterns
 
 ### ⚙️ DevOps & Infrastructure Excellence
 **Containerization**: Docker  
 **CI/CD**: GitHub Actions, Jenkins, Bamboo, Azure DevOps  
-**Cloud Platforms**: (future)  
-**Infrastructure as Code**: Terraform(Learning)  
+**Cloud Platforms**: (future)   
 **Monitoring**: Application performance monitoring, logging strategies
 
 ### 🔐 Security & Authentication
@@ -131,12 +131,12 @@ This journey represents the convergence of mathematical beauty and engineering p
 
 ### **Formal Education**
 **Anhanguera**  
-*Information Security* | **2026 - 2028**  
-Focus: Cybersecurity frameworks, threat analysis, secure system architecture, cryptographic protocols, and defensive programming methodologies
+❒ **Blockchain** | **2026 - 2028**  <br>
+Focus: _Blockchain frameworks, consensus algorithms, smart contract development, cryptographic protocols, and decentralized application (dApp) architectures_
 
 ### **Advanced Specialization** *(Planned 2028~2029)*
-- **🛡️ Cyber Defense Postgraduate** - Advanced threat detection, incident response, security architecture, and digital forensics
-- **⚙️ Software Engineering Postgraduate** - Systems architecture mastery, distributed computing, secure development lifecycle, and technical leadership
+🛡️ **Blockchain & Web3 Postgraduate** – _Advanced consensus mechanisms, blockchain scalability, tokenomics, smart contract security, and decentralized governance_ <br>
+⚙️ **Software Engineering Postgraduate** – _Systems architecture mastery, distributed computing, secure development lifecycle, and technical leadership_
 
 ### **Continuous Learning Philosophy**
 *Committed to evolving at the intersection of secure architecture and functional programming—where robust systems meet defensive excellence through continuous study and knowledge sharing.*
@@ -159,6 +159,7 @@ Focus: Cybersecurity frameworks, threat analysis, secure system architecture, cr
 ---
 
 **ALT**: АНДРЕ БОРБА
+**ALT**: Clojure Nerd
 
 ---
 
