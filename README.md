@@ -1,5 +1,5 @@
 # Andre Borba
-**Software Engineer | GenAI Researcher | Blockchain Researcher | Clean Architecture • DDD • TDD • BDD**
+**Software Engineer | GenAI Researcher | Clean Architecture • DDD • TDD • BDD**
 
 > *"Engineering robust backends through clean architecture, functional principles, and secure design—where distributed systems meet pragmatic software engineering, and every service becomes a scalable foundation for business growth."*
 
