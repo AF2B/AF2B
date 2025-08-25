@@ -1,23 +1,23 @@
 # Andre Borba
-**Software Engineer | Blockchain & Web3 | Blockchain Researcher | Clean Architecture • DDD • TDD • BDD**
+**Software Engineer | GenAI Researcher | Blockchain Researcher | Clean Architecture • DDD • TDD • BDD**
 
-> *"Engineering decentralized backends through functional and secure design—where blockchain consensus meets immutable logic, and every smart contract becomes a piece of scalable art."*
+> *"Engineering robust backends through clean architecture, functional principles, and secure design—where distributed systems meet pragmatic software engineering, and every service becomes a scalable foundation for business growth."*
 
 ---
 
 ## ☄️ Currently Exploring
-**🔗 Blockchain** - *The Pursuit of Decentralized Elegance*
+**⚙️ Backend Engineering** – *The pursuit of scalable and resilient systems*
 
-I'm currently immersed in the deeper territories of blockchain engineering and distributed computation:
+I'm currently diving deep into advanced backend architectures and applied AI:
 
-- **Smart Contract Engineering**: Writing secure and gas-optimized contracts in Solidity and Rust
-- **DeFi Protocols & DAOs**: Designing financial primitives and decentralized governance mechanisms
-- **Zero-Knowledge Proofs**: Researching advanced cryptography for scalability and privacy-preserving computation
-- **Layer 2 Architectures**: Exploring optimistic and zk-rollups for high-throughput systems
-- **Distributed Systems**: Applying functional principles to resilient and trustless architectures
-- **AI + Blockchain Synergy**: Leveraging Python and GenAI to augment smart contract analysis and ecosystem tooling
+- **Go Systems Engineering**: Building highly concurrent, low-latency services with idiomatic Go
+- **TypeScript & React**: Developing modern fullstack applications with strong typed contracts between frontend and backend
+- **Python for GenAI**: Creating AI-powered backends using LangChain, RAG, and production-ready GenAI pipelines
+- **Distributed Systems**: Designing event-driven, message-based, and resilient architectures
+- **Clean Architecture & DDD**: Applying domain-driven design and hexagonal architecture to build maintainable systems
+- **Tech Leadership Foundations**: Growing towards Tech Lead by focusing on mentorship, design reviews, and cross-team architecture alignment
 
-This journey represents the convergence of decentralized trust, functional elegance, and engineering pragmatism—where each exploration brings me closer to mastering blockchain as both a science and an art.
+This journey reflects my commitment to backend mastery and leadership—where engineering excellence meets pragmatic delivery.
 
 ---
 
@@ -38,7 +38,7 @@ This journey represents the convergence of decentralized trust, functional elega
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise)*
-**Python** | **Solidity** | **TypeScript** | **Rust**
+**Python** | **Go** | **TypeScript** | **Clojure**
 
 *My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, Solidity for developing secure smart contracts, TypeScript for Web3/dApp front-ends, and Rust for low-level systems and high-performance blockchains.*
 
@@ -48,8 +48,13 @@ This journey represents the convergence of decentralized trust, functional elega
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
 ### 🌌 Active Exploration
-**Blockchain & Web3** | **Smart Contract Security** | **DeFi Architectures** | **Zero-Knowledge Proofs (ZKPs)**
-*My current exploration is in the decentralized universe: from optimizing smart contracts for lower gas costs, through DeFi protocols and DAOs, to research in advanced cryptography and zero-knowledge proofs for scalability and privacy.*
+**Backend Engineering** | **Distributed Systems** | **Clean Architecture & DDD** | **GenAI Integration**
+
+My current exploration is focused on pushing the boundaries of backend engineering:  
+from building highly concurrent systems in Go, to integrating GenAI into production backends with Python,  
+to exploring modern fullstack experiences with TypeScript and React.  
+
+*This path is guiding me toward becoming not just a strong individual contributor, but a **future Tech Lead** who can drive architecture, mentor teams, and deliver business-critical systems at scale.*
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
