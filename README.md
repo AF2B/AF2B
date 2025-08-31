@@ -10,7 +10,7 @@
 
 I'm currently diving deep into advanced backend architectures and applied AI:
 
-- **Go Systems Engineering**: Building highly concurrent, low-latency services with C#/F#
+- **Systems Engineering**: Building highly concurrent, low-latency services with C#/F#
 - **TypeScript & React**: Developing modern fullstack applications with strong typed contracts between frontend and backend
 - **Python for GenAI**: Creating AI-powered backends using LangChain, RAG, and production-ready GenAI pipelines
 - **Distributed Systems**: Designing event-driven, message-based, and resilient architectures
