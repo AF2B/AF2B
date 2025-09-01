@@ -1,5 +1,5 @@
 # Andre Borba
-**Software Engineer | GenAI Researcher | Blockchain Researcher | Clean Architecture • DDD • TDD • BDD**
+**Software Engineer | GenAI Researcher | Clean Architecture • DDD • TDD • BDD**
 
 > *"Engineering robust backends through clean architecture, functional principles, and secure design—where distributed systems meet pragmatic software engineering, and every service becomes a scalable foundation for business growth."*
 
@@ -10,7 +10,7 @@
 
 I'm currently diving deep into advanced backend architectures and applied AI:
 
-- **Systems Engineering**: Building highly concurrent, low-latency services with Rust 🦀
+- **Systems Engineering**: Building highly concurrent, low-latency services with C#/F#
 - **TypeScript & React**: Developing modern fullstack applications with strong typed contracts between frontend and backend
 - **Python for GenAI**: Creating AI-powered backends using LangChain, RAG, and production-ready GenAI pipelines
 - **Distributed Systems**: Designing event-driven, message-based, and resilient architectures
@@ -38,12 +38,12 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise)*
-**Python** | **Rust 🦀** | **TypeScript** | **Clojure**
+**Python** | **C#/F#** | **TypeScript** | **Clojure**
 
-*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, Solidity for developing secure smart contracts, TypeScript for Web3/dApp front-ends, and Rust for low-level systems, high-performance blockchains and GenAI/AI.*
+*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, TypeScript for React Apps front-ends, and C#/F# for low-level systems, high-performance REST APIs*
 
 ### 🔧 Professional Experience
-**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year) | Rust 🦀(1 Year)
+**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year) | C#/F#(1 Year)
 
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
@@ -165,7 +165,7 @@ Focus: _Blockchain frameworks, consensus algorithms, smart contract development,
 
 **ALT**: АНДРЕ БОРБА
 **ALT**: Functional Engineering Nerd
-**ALT**: Rust Lover🦀
+**ALT**: F#
 
 ---
 
