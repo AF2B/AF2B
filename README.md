@@ -163,9 +163,9 @@ Focus: _Blockchain frameworks, consensus algorithms, smart contract development,
 
 ---
 
-**ALT**: АНДРЕ БОРБА
-**ALT**: Functional Engineering Nerd
-**ALT**: F#
+**ALT**: АНДРЕ БОРБА </br>
+**ALT**: Functional Engineering Nerd </br>
+**ALT**: F# 
 
 ---
 
