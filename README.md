@@ -10,7 +10,7 @@
 
 I'm currently diving deep into advanced backend architectures and applied AI:
 
-- **Systems Engineering**: Building highly concurrent, low-latency services with C#/F#
+- **Systems Engineering**: Building highly concurrent, low-latency services with Python
 - **TypeScript & React**: Developing modern fullstack applications with strong typed contracts between frontend and backend
 - **Python for GenAI**: Creating AI-powered backends using LangChain, RAG, and production-ready GenAI pipelines
 - **Distributed Systems**: Designing event-driven, message-based, and resilient architectures
@@ -37,13 +37,13 @@ This journey reflects my commitment to backend mastery and leadership—where en
 
 ## 💻 Tech Stack & Expertise
 
-### 🧠 Core Languages *(Primary Expertise)*
-**Python** | **C#/F#** | **TypeScript** | **Clojure**
+### 🧠 Core Languages *(Primary Expertise - Currently work with)*
+**Python** | **C++** | **OCaml** | **TypeScript**
 
-*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, TypeScript for React Apps front-ends, and C#/F# for low-level systems, high-performance REST APIs*
+*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, TypeScript for React Apps front-ends, and C++/OCaml for low-level systems, high-performance REST APIs*
 
 ### 🔧 Professional Experience
-**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year) | C#/F#(1 Year)
+**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year) | C++/OCaml(0.3 Months)
 
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
@@ -51,7 +51,7 @@ This journey reflects my commitment to backend mastery and leadership—where en
 **Backend Engineering** | **Distributed Systems** | **Clean Architecture & DDD** | **GenAI Integration**
 
 My current exploration is focused on pushing the boundaries of backend engineering:  
-from building highly concurrent systems in Rust, to integrating GenAI into production backends with Python,  
+from building highly concurrent systems in Python/OCaml, to integrating GenAI into production backends with Python,  
 to exploring modern fullstack experiences with TypeScript and React.  
 
 *This path is guiding me toward becoming not just a strong individual contributor, but a **future Tech Lead** who can drive architecture, mentor teams, and deliver business-critical systems at scale.*
@@ -65,7 +65,6 @@ to exploring modern fullstack experiences with TypeScript and React.
 ### ⚙️ DevOps & Infrastructure Excellence
 **Containerization**: Docker  
 **CI/CD**: GitHub Actions, Jenkins, Bamboo, Azure DevOps  
-**Cloud Platforms**: (future)   
 **Monitoring**: Application performance monitoring, logging strategies
 
 ### 🔐 Security & Authentication
@@ -135,12 +134,12 @@ to exploring modern fullstack experiences with TypeScript and React.
 ## 🎓 Education & Continuous Learning
 
 ### **Formal Education**
-**Anhanguera**  
-❒ **Blockchain** | **2026 - 2028**  <br>
-Focus: _Blockchain frameworks, consensus algorithms, smart contract development, cryptographic protocols, and decentralized application (dApp) architectures_
+**Uninassau**  
+❒ **Artificial Intelligence** | **2026 - 2028**  <br>
+Focus: _Machine learning models, deep learning architectures, natural language processing (NLP), computer vision, and ethical implications of AI._
 
 ### **Advanced Specialization** *(Planned 2028~2029)*
-🛡️ **Blockchain & Web3 Postgraduate** – _Advanced consensus mechanisms, blockchain scalability, tokenomics, smart contract security, and decentralized governance_ <br>
+🛡️ **Artificial Intelligence & Machine Learning Postgraduate** – _Advanced machine learning algorithms, deep learning optimization, natural language processing, reinforcement learning, and ethical AI frameworks_ <br>
 ⚙️ **Software Engineering Postgraduate** – _Systems architecture mastery, distributed computing, secure development lifecycle, and technical leadership_
 
 ### **Continuous Learning Philosophy**
@@ -153,7 +152,6 @@ Focus: _Blockchain frameworks, consensus algorithms, smart contract development,
 - 💼 **LinkedIn**: [andrefilipefonsecaborba](https://www.linkedin.com/in/andrefilipefonsecaborba/) - *Professional networking and industry insights*
 - 🚀 **GitHub**: [AF2B](https://github.com/AF2B) - *Open source contributions and technical projects*
 - 🧠 **LeetCode**: [andreborba](https://leetcode.com/u/andreborba/) - *Algorithmic problem solving and competitive programming*
-- ❒ **CodeHawks**: [CodeHawks](https://profiles.cyfrin.io/u/borba) - *Blockchain - Competitive Audits*
 
 **Technical Writing & Knowledge Sharing**
 - ✍️ **Medium**: [@andre.borbaaf2b](https://medium.com/@andre.borbaaf2b) - *In-depth technical articles and software engineering insights*
@@ -165,7 +163,7 @@ Focus: _Blockchain frameworks, consensus algorithms, smart contract development,
 
 **ALT**: АНДРЕ БОРБА </br>
 **ALT**: Functional Engineering Nerd </br>
-**ALT**: F# 
+**ALT**: C++&OCaml Lover
 
 ---
 
