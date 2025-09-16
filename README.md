@@ -1,5 +1,5 @@
 # Andre Borba
-**Software Engineer | GenAI Researcher | Clean Architecture • DDD • TDD • BDD**
+**Software Engineer | GenAI Researcher | Blockchain Researcher | Clean Architecture • DDD • TDD**
 
 > *"Engineering robust backends through clean architecture, functional principles, and secure design—where distributed systems meet pragmatic software engineering, and every service becomes a scalable foundation for business growth."*
 
@@ -38,12 +38,12 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack & Expertise
 
 ### 🧠 Core Languages *(Primary Expertise - Currently work with)*
-**Python** | **C++** | **OCaml** | **TypeScript**
+**Python** | **JavaScript/TypeScript** | **Rust**
 
-*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, TypeScript for React Apps front-ends, and C++/OCaml for low-level systems, high-performance REST APIs*
+*My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, TypeScript for React Apps front-ends, and Rust for low-level systems, high-performance REST APIs*
 
 ### 🔧 Professional Experience
-**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year) | C++/OCaml(0.3 Months)
+**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year) | **Rust**(0.3 Months)
 
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
@@ -162,8 +162,7 @@ Focus: _Machine learning models, deep learning architectures, natural language p
 ---
 
 **ALT**: АНДРЕ БОРБА </br>
-**ALT**: Functional Engineering Nerd </br>
-**ALT**: C++&OCaml Lover
+**ALT**: **Blockchain** Nerd
 
 ---
 
