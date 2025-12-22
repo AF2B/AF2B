@@ -43,7 +43,7 @@ This journey reflects my commitment to backend mastery and leadership—where en
 *My foundation is functional and expressive. I master Python for building GenAI-powered systems and production-ready backends, TypeScript for React Apps front-ends, and Rust for low-level systems, high-performance REST APIs*
 
 ### 🔧 Professional Experience
-**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1 Year) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year)
+**Java**(2 Years) | **Python**(2 Years) | **Ruby**(1.2 Years) | **Clojure**(1 Year) | **JavaScript/TypeScript**(1 Year)
 
 *Languages I've wielded in real-world production environments, contributing to significant systems and business outcomes.*
 
