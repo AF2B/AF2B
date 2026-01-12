@@ -1,5 +1,5 @@
 # Andre Borba
-**Software Engineer | GenAI Researcher | Clojure | Clean Architecture • DDD • TDD**
+**Software Engineer | Clojure | Clean Architecture • DDD • TDD • EDA**
 
 > *"Engineering robust backends through clean architecture, functional principles, and secure design—where distributed systems meet pragmatic software engineering, and every service becomes a scalable foundation for business growth."*
 
@@ -54,8 +54,8 @@ This journey reflects my commitment to backend mastery and leadership—where en
 **Backend Engineering** | **Distributed Systems** | **Clean Architecture & DDD** | **GenAI Integration**
 
 My current exploration is focused on pushing the boundaries of backend engineering:  
-from building highly concurrent systems in Python/Clojure, to integrating GenAI into production backends with Python,  
-to exploring modern fullstack experiences with TypeScript and React.  
+from building highly concurrent systems in Clojure/Python, to integrating GenAI into production backends with Python,  
+to exploring modern fullstack experiences with ClojureScript.  
 
 *This path is guiding me toward becoming not just a strong individual contributor, but a **future Tech Lead** who can drive architecture, mentor teams, and deliver business-critical systems at scale.*
 
