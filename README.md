@@ -1,5 +1,5 @@
 # Andre Borba
-**Software Engineer | Functional Programming Specialist | Clojure • Scala**
+**Software Engineer | Functional Programming Specialist | Clojure • Haskell**
 
 > *"Finding simplicity in complexity through functional programming and clean architecture."*
 
@@ -36,9 +36,9 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-**Current Focus**: Python • TypeScript/React • Clojure  
+**Current Focus**: Clojure • Haskell
 **Production Experience**: Java • Ruby • Python </br>
-**Deep Research**: Clojure • Scala • Java
+**Deep Research**: Clojure • Haskell • Java
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
