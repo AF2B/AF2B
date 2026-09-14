@@ -3,7 +3,7 @@
 ---
 
 # Andre Borba
-**Software Engineer | Functional Programming Specialist | Clojure**
+**Software Engineer | Functional Programming Specialist | Clojure + Go**
 
 > *"Finding simplicity in complexity through functional programming and clean architecture."*
 
@@ -13,7 +13,7 @@
 
 Focused on backend mastery and evolving towards Tech Leadership:
 
-- **Backend Systems**: High-concurrency services with Clojure, distributed architectures, event-driven design
+- **Backend Systems**: High-concurrency services with Clojure and Go, distributed architectures, event-driven design
 - **GenAI Engineering**: Production-ready AI backends with Python, LangChain, and RAG
 - **Modern Fullstack**: TypeScript/React with strongly-typed contracts
 - **Architecture Excellence**: Clean Architecture, DDD, Hexagonal patterns
@@ -40,15 +40,15 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-**Current Focus**: Clojure • React
-**Production Experience**: Java • Ruby • Python • **Clojure**</br>
-**Deep Research**: **Clojure** • **Data-Driven**
+**Current Focus**: Clojure • Go • React
+**Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React</br>
+**Deep Research**: **Clojure** • **Go** • **Data-Driven**
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
 
 ### Backend & Data
-**Databases**: PostgreSQL, MongoDB, Oracle, DB2, BigQuery  
+**Databases**: PostgreSQL, MongoDB, Oracle, DB2, BigQuery, DynamoDB  
 **APIs**: REST (Richardson Level 3), GraphQL  
 **Distributed Systems**: Message queues, event streaming, concurrency
 
@@ -71,9 +71,9 @@ to exploring modern fullstack experiences with ClojureScript.
 **Performance**: Query optimization, indexing strategies, database design patterns
 
 ### ⚙️ DevOps & Infrastructure Excellence
-**Containerization**: Docker  
+**Containerization**: Docker, Kubernetes  
 **CI/CD**: GitHub Actions, Jenkins, Bamboo, Azure DevOps  
-**Monitoring**: Application performance monitoring, logging strategies
+**Monitoring**: Application performance monitoring, logging strategies, Sentry
 
 ### 🔐 Security & Authentication
 **Modern Auth**: JWT, OAuth 2.0  
@@ -82,7 +82,7 @@ to exploring modern fullstack experiences with ClojureScript.
 ### 📋 Engineering Excellence
 **Methodologies**: Agile (Scrum, Kanban), DevOps culture, TDD/BDD  
 **Collaboration**: Code reviews, pair programming, technical mentoring  
-**Tools**: Jira, Azure Boards, Confluence, technical documentation
+**Tools**: Jira, Azure Boards, Confluence, Notion, Linear, technical documentation
 
 ---
 
