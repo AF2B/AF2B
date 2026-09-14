@@ -103,7 +103,7 @@ to exploring modern fullstack experiences with ClojureScript.
 | **Behavioral Patterns** | **Creational Patterns** | **Structural Patterns** |
 |--------------------------|--------------------------|--------------------------|
 | 🐝 **Chain Of Responsibility** - *Complete* | 🌰 **Abstract Factory** - *In Progress* | 🔌 **Adapter** - *In Progress* |
-| 👫 **Command** - *In Progress* | 👷 **Builder** - *Complete* | 🌉 **Bridge** - *In Progress* |
+| 👫 **Command** - *Complete* | 👷 **Builder** - *Complete* | 🌉 **Bridge** - *In Progress* |
 | 🎶 **Interpreter** - *In Progress* | 🏭 **Factory Method** - *Complete* | 🌿 **Composite** - *In Progress* |
 | 🍫 **Iterator** - *In Progress* | 🔂 **Monostate** - *Complete* | 🍧 **Decorator** - *Complete* |
 | 💐 **Mediator** - *In Progress* | 🃏 **Prototype** - *In Progress* | 🎁 **Facade** - *Complete* |
