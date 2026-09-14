@@ -1,13 +1,4 @@
-> ⚠️ **AVISO IMPORTANTE**
-> GitHub **!DEPRECATED!**
-> Este repositório tornou-se um **espelho** do meu trabalho principal.
-> 
-> **📍 Novo Repositório Principal:** [GitLab - Andre Borba](https://gitlab.com/andre.borbaaf2b)
-> 
-> Para acessar a versão mais atualizada e completa dos meus projetos, visite meu perfil no GitLab acima.
->
-> Obrigado,
-> _Borba_
+[![GitLab](https://img.shields.io/badge/also%20on-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/andre.borbaaf2b)
 
 ---
 
