@@ -133,7 +133,7 @@ to exploring modern fullstack experiences with ClojureScript.
 |---------------------------|--------------------------------|-----------------------|-----------------------|
 | 🔷 **Algebraic Data Types (ADTs)** - *In Progress* | 🔮 **Functor** - *In Progress* | 🌀 **Free Monad** - *In Progress* | 🏗️ **Functional Core, Imperative Shell** - *In Progress* |
 | 🎯 **Pattern Matching** - *In Progress* | ✨ **Applicative** - *In Progress* | 🔄 **Recursion Schemes** - *In Progress* | 🛡️ **Smart Constructor** - *In Progress* |
-| 🎪 **Higher-Order Functions (HOFs)** - *Complete* | 🌊 **Monad** - *In Progress* | 🏷️ **Tagless Final** - *In Progress* | ⚠️ **Make Illegal States Unrepresentative** - *In Progress* |
+| 🎪 **Higher-Order Functions (HOFs)** - *Complete* | 🌊 **Monad** - *In Progress* | 🏷️ **Tagless Final** - *In Progress* | ⚠️ **Make Illegal States Unrepresentable** - *In Progress* |
 | 🔐 **Closures** - *Complete* | 🧬 **Semigroup** - *In Progress* | 💾 **Hash-Consing** - *In Progress* | ✅ **Errors as Values** - *In Progress* |
 | 🔒 **Immutability** - *Complete* | 🎭 **Monoid** - *In Progress* | 🔢 **De Bruijn Index** - *In Progress* | 🔍 **Parse, Don't Validate** - *In Progress* |
 | ✔️ **Totality** - *In Progress* | 📐 **Parametric vs Ad-hoc Polymorphism** - *In Progress* | 🧩 **Expression Problem** - *In Progress* |  |
