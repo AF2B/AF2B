@@ -3,7 +3,7 @@
 ---
 
 # Andre Borba
-**Software Engineer | Functional Programming Specialist | Clojure + Go**
+**Software Engineer | Functional Programming Specialist | Clojure + Go + C++**
 
 > *"Finding simplicity in complexity through functional programming and clean architecture."*
 
@@ -13,7 +13,7 @@
 
 Focused on backend mastery and evolving towards Tech Leadership:
 
-- **Backend Systems**: High-concurrency services with Clojure and Go, distributed architectures, event-driven design
+- **Backend Systems**: High-concurrency services with Clojure, Go, and C++, distributed architectures, event-driven design
 - **GenAI Engineering**: Production-ready AI backends with Python, LangChain, and RAG
 - **Modern Fullstack**: TypeScript/React with strongly-typed contracts
 - **Architecture Excellence**: Clean Architecture, DDD, Hexagonal patterns
@@ -40,9 +40,9 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-**Current Focus**: Clojure • Go • React
-**Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React</br>
-**Deep Research**: **Clojure** • **Go** • **Data-Driven**
+**Current Focus**: Clojure • Go • C++ • React
+**Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • **C++** • ClojureScript • React</br>
+**Deep Research**: **Clojure** • **Go** • **C++** • **Data-Driven**
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
