@@ -48,7 +48,6 @@ This journey reflects my commitment to backend mastery and leadership—where en
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
 
 ### Backend & Data
-**Databases**: PostgreSQL, MongoDB, Oracle, DB2, BigQuery, DynamoDB  
 **APIs**: REST (Richardson Level 3), GraphQL  
 **Distributed Systems**: Message queues, event streaming, concurrency
 
@@ -66,7 +65,7 @@ to exploring modern fullstack experiences with ClojureScript.
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
-**NoSQL**: MongoDB 
+**NoSQL**: MongoDB, DynamoDB 
 **Analytics**: Google BigQuery </br>
 **Performance**: Query optimization, indexing strategies, database design patterns
 
