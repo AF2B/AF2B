@@ -42,7 +42,7 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ### Languages & Frameworks
 **Current Focus**: Go • React • C++
 **Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React</br>
-**Deep Research**: **Clojure** • **Go** • **Data-Driven**
+**Deep Research**: **C++** • **Low-Latency Systems** • **High-Frequency Trading (HFT)**
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
