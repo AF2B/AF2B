@@ -3,7 +3,7 @@
 ---
 
 # Andre Borba
-**Software Engineer | Functional Programming Specialist | Clojure + Go**
+**Software Engineer | Clojure + Go + React + C++**
 
 > *"Finding simplicity in complexity through functional programming and clean architecture."*
 
@@ -40,9 +40,9 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-**Current Focus**: Clojure • Go • React
+**Current Focus**: Go • React • C++
 **Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React</br>
-**Deep Research**: **Clojure** • **Go** • **Data-Driven**
+**Deep Research**: **C++** • **Low-Latency Systems** • **High-Frequency Trading (HFT)**
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
