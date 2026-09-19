@@ -65,8 +65,8 @@ to exploring modern fullstack experiences with ClojureScript.
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
-**NoSQL**: MongoDB, DynamoDB 
-**Analytics**: Google BigQuery </br>
+**NoSQL**: MongoDB, DynamoDB  
+**Analytics**: Google BigQuery  
 **Performance**: Query optimization, indexing strategies, database design patterns
 
 ### ⚙️ DevOps & Infrastructure Excellence
