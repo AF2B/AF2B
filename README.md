@@ -40,9 +40,9 @@ This journey reflects my commitment to backend mastery and leadership—where en
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-**Current Focus**: Go • React • C++
-**Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React</br>
-**Deep Research**: **C++** • **Low-Latency Systems** • **High-Frequency Trading (HFT)**
+**Current Focus**: Go • React • C++  
+**Deep Research**: **C++** • **Low-Latency Systems** • **High-Frequency Trading (HFT)**  
+**Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
