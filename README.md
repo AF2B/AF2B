@@ -5,21 +5,21 @@
 # Andre Borba
 **Software Engineer | Clojure + Go + React + C++**
 
-> *"Finding simplicity in complexity through functional programming and clean architecture."*
+> *"Precision under pressure: building low-latency systems where performance meets clean architecture."*
 
 ---
 
 ## 🚀 Currently Building
 
-Focused on backend mastery and evolving towards Tech Leadership:
+Focused on low-latency, high-performance engineering:
 
-- **Backend Systems**: High-concurrency services with Clojure and Go, distributed architectures, event-driven design
-- **GenAI Engineering**: Production-ready AI backends with Python, LangChain, and RAG
-- **Modern Fullstack**: TypeScript/React with strongly-typed contracts
+- **Low-Latency Systems**: High-performance services in C++ and Go, targeting HFT/market-data workloads
+- **Modern Fullstack**: React with strongly-typed contracts
+- **ML/AI Adjunct**: Python for ML/AI tooling when the problem calls for it
 - **Architecture Excellence**: Clean Architecture, DDD, Hexagonal patterns
-- **Leadership Growth**: Mentorship, design reviews, cross-team alignment
+- **Performance Engineering**: Profiling, concurrency, and systems-level optimization
 
-This journey reflects my commitment to backend mastery and leadership—where engineering excellence meets pragmatic delivery.
+This journey reflects my commitment to performance and precision—where speed meets clean architecture.
 
 ---
 
@@ -55,13 +55,13 @@ Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture �
 Docker • CI/CD (GitHub Actions, Jenkins) • Monitoring & Logging
 
 ### 🌌 Active Exploration
-**Backend Engineering** | **Distributed Systems** | **Clean Architecture & DDD** | **GenAI Integration**
+**Low-Latency Systems** | **High-Frequency Trading** | **C++ Performance Engineering** | **Modern Fullstack (React)**
 
-My current exploration is focused on pushing the boundaries of backend engineering:  
-from building highly concurrent systems in Clojure/Python, to integrating GenAI into production backends with Python,  
-to exploring modern fullstack experiences with ClojureScript.  
+My current exploration is focused on pushing the boundaries of performance engineering:  
+from building low-latency, high-throughput systems in C++ and Go, to studying market microstructure and HFT design patterns,  
+to exploring modern fullstack experiences with React — with Python as a complementary tool for ML/AI work.  
 
-*This path is guiding me toward becoming not just a strong individual contributor, but a **future Tech Lead** who can drive architecture, mentor teams, and deliver business-critical systems at scale.*
+*This path is guiding me toward high-performance engineering roles at firms like Bloomberg, where precision, speed, and clean architecture are non-negotiable.*
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
