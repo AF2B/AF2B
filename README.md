@@ -33,7 +33,7 @@ This journey reflects my commitment to performance and precision—where speed m
 
 **🏆 Professional Impact**
 - **Production Systems**: Architected and delivered scalable backend solutions across Insurance, Education, and Finance sectors
-- **Open Source Contributions**: Active contributor to functional programming community and educational content
+- **Open Source Contributions**: Active contributor to performance engineering community and educational content
 
 ---
 
@@ -151,14 +151,6 @@ to exploring modern fullstack experiences with React — with Python as a comple
 ## 📑 Engineering Standards & Best Practices
 *My commitment to software craftsmanship through established guidelines and documented practices:*
 
-## 📚 Technical Writing & Standards
-
-**Published Articles:**
-- [Clojure Is Awesome Series](https://dev.to/borba/clojure-is-awesome-5f6k) - Exploring Clojure's elegance
-- [REST API Best Practices & RFCs](https://medium.com/beyondlabsey/...) - API design standards
-- [Code Style Excellence](https://medium.com/@andre.borbaaf2b/...) - Quality practices
-- [Functional Programming in Java](https://dev.to/borba/surfing-with-fp-java-the-beginning-4dj7)
-
 **Engineering Practices:**  
 Git Workflow • Documentation • Testing (TDD/BDD) • Logging Strategies • API Design
 
@@ -177,7 +169,7 @@ Blockchain • Software Engineering & Smart Contracts
 ## 💬 Let's Connect
 
 I'm always open to discussing:
-- Functional programming and clean architecture
+- Low-latency systems and clean architecture
 - Backend engineering challenges
 - Tech leadership and mentorship
 - Open source collaborations
@@ -201,8 +193,8 @@ Feel free to reach out or explore my projects below! 👇
 ---
 
 **ALT**: АНДРЕ БОРБА </br>
-**ALT**: **Clojure** Nerd
-**ALT**: **Data-Driven** Nerd
+**ALT**: **C++** Nerd
+**ALT**: **Low-Latency** Nerd
 
 ---
 
