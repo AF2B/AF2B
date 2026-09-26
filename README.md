@@ -3,23 +3,23 @@
 ---
 
 # Andre Borba
-**Software Engineer | Clojure + Go + React + C++**
+**Functional Software Engineer | OCaml + Clojure + Go**
 
-> *"Precision under pressure: building low-latency systems where performance meets clean architecture."*
+> *"Types that make illegal states unrepresentable, purity that makes systems provable — precision as a discipline, not an accident."*
 
 ---
 
 ## 🚀 Currently Building
 
-Focused on low-latency, high-performance engineering:
+Focused on functional systems engineering, from production Clojure to low-level OCaml:
 
-- **Low-Latency Systems**: High-performance services in C++ and Go, targeting HFT/market-data workloads
-- **Modern Fullstack**: React with strongly-typed contracts
-- **ML/AI Adjunct**: Python for ML/AI tooling when the problem calls for it
-- **Architecture Excellence**: Clean Architecture, DDD, Hexagonal patterns
+- **Functional Systems Programming**: OCaml for low-level, high-performance, compiler-verified software — the deep, long-term specialization
+- **Production Functional Programming**: Clojure as my primary professional language — REPL-driven development, immutability, data-oriented design
+- **Day-to-Day Stack**: Go and React from my current role
+- **Architecture Excellence**: Functional Core/Imperative Shell, Clean Architecture, DDD, Hexagonal patterns
 - **Performance Engineering**: Profiling, concurrency, and systems-level optimization
 
-This journey reflects my commitment to performance and precision—where speed meets clean architecture.
+This journey reflects a commitment to functional programming as a discipline — where the type system and immutability aren't constraints, but the tools that make correctness and performance the same goal.
 
 ---
 
@@ -40,9 +40,9 @@ This journey reflects my commitment to performance and precision—where speed m
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-**Current Focus**: Go • React • C++  
-**Deep Research**: **C++** • **Low-Latency Systems** • **High-Frequency Trading (HFT)**  
-**Production Experience**: Java • Ruby • Python • **Clojure** • **Go** • ClojureScript • React
+**Primary Focus**: **OCaml** • **Clojure**  
+**Deep Research**: **OCaml** • Functional Systems Programming • Compiler & Runtime Internals  
+**Production Experience**: **Clojure** • **Go** • React • ClojureScript • Java • Ruby • Python
 
 ### Architecture & Patterns
 Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture • Microservices
@@ -55,13 +55,15 @@ Clean Architecture • DDD • Event-Driven Systems • Hexagonal Architecture �
 Docker • CI/CD (GitHub Actions, Jenkins) • Monitoring & Logging
 
 ### 🌌 Active Exploration
-**Low-Latency Systems** | **High-Frequency Trading** | **C++ Performance Engineering** | **Modern Fullstack (React)**
+**OCaml** | **Functional Systems Programming** | **Compiler & Runtime Internals** | **Clojure in Production**
 
-My current exploration is focused on pushing the boundaries of performance engineering:  
-from building low-latency, high-throughput systems in C++ and Go, to studying market microstructure and HFT design patterns,  
-to exploring modern fullstack experiences with React — with Python as a complementary tool for ML/AI work.  
+My current exploration centers on becoming a specialist in OCaml — its ecosystem, its compiler,  
+and how to build low-level, high-performance systems the way its most demanding practitioners  
+do (Jane Street being the reference point): correctness enforced by the type system, performance  
+without giving up abstraction. Clojure remains my primary professional language day to day, with  
+Go and React rounding out the stack from my current role.
 
-*This path is guiding me toward high-performance engineering roles at firms like Bloomberg, where precision, speed, and clean architecture are non-negotiable.*
+*This path is guiding me toward functional-systems engineering roles where type-driven design and low-level performance aren't a trade-off — they're the same discipline.*
 
 ### 🗄️ Database Mastery
 **Relational**: PostgreSQL, Oracle (PL/SQL), IBM DB2  
@@ -169,7 +171,8 @@ Blockchain • Software Engineering & Smart Contracts
 ## 💬 Let's Connect
 
 I'm always open to discussing:
-- Low-latency systems and clean architecture
+- Functional programming and type-driven design
+- OCaml and Clojure in production
 - Backend engineering challenges
 - Tech leadership and mentorship
 - Open source collaborations
@@ -193,8 +196,8 @@ Feel free to reach out or explore my projects below! 👇
 ---
 
 **ALT**: АНДРЕ БОРБА </br>
-**ALT**: **C++** Nerd
-**ALT**: **Low-Latency** Nerd
+**ALT**: **OCaml** Nerd
+**ALT**: **Functional Programming** Nerd
 
 ---
 
