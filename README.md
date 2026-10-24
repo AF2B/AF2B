@@ -94,11 +94,11 @@ Go and React rounding out the stack from my current role.
 
 | **Behavioral Patterns** | **Creational Patterns** | **Structural Patterns** |
 |--------------------------|--------------------------|--------------------------|
-| 🐝 **Chain Of Responsibility** - *Complete* | 🌰 **Abstract Factory** - *In Progress* | 🔌 **Adapter** - *In Progress* |
+| 🐝 **Chain Of Responsibility** - *Complete* | 🌰 **Abstract Factory** - *Complete* | 🔌 **Adapter** - *In Progress* |
 | 👫 **Command** - *Complete* | 👷 **Builder** - *Complete* | 🌉 **Bridge** - *In Progress* |
 | 🎶 **Interpreter** - *In Progress* | 🏭 **Factory Method** - *Complete* | 🌿 **Composite** - *In Progress* |
 | 🍫 **Iterator** - *In Progress* | 🔂 **Monostate** - *Complete* | 🍧 **Decorator** - *Complete* |
-| 💐 **Mediator** - *In Progress* | 🃏 **Prototype** - *In Progress* | 🎁 **Facade** - *Complete* |
+| 💐 **Mediator** - *In Progress* | 🃏 **Prototype** - *Complete* | 🎁 **Facade** - *Complete* |
 | 💾 **Memento** - *In Progress* | 💍 **Singleton** - *Complete* | 🍃 **Flyweight** - *In Progress* |
 | 👓 **Observer** - *Complete* |  | ☔ **Protection Proxy** - *In Progress* |
 | 🐉 **State** - *Complete* |  | 🍬 **Virtual Proxy** - *In Progress* |
